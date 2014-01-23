@@ -1,0 +1,41 @@
+Laurel Hart
+ Email: laurel.elise.hart@gmail.com
+ LinkedIn: http://www.linkedin.com/in/laurelehart
+ Github: https://github.com/konayashi
+
+Education
+Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014 (expected)
+ 
+Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
+- Minor in Computer Science
+- Honors College
+    - Undergraduate thesis: “The Linguistics of Sentiment Analysis”
+
+Experience
+Intern, BCL Technologies, San José, CA.  Winter and Summer 2012
+ - Analyzed data for feature selection purposes;
+ - Researched various topics, including information extraction, authorship attribution, and semantic role labeling;
+ - Authored demonstration paper for Arabic semantic role labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
+    - Published in Proceedings of COLING 2012 (see Publications)
+
+Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
+ - Provided support for staff and student technologies at the University’s Millar Library
+ - Held Team Lead position March, 2013 — June, 2013
+
+Apprentice, Braindump, Portland State University, Portland, OR. 2010–2011 
+ - Performed IT services for the University’s Computer Science and Engineering department;
+ - Attended weekly lectures on various topics pertaining to systems administration and general computer systems knowledge
+
+Languages
+English: Native language
+French; 5 years of academic study
+Mandarin Chinese: 1 year of academic study
+
+Computer skills
+Languages; Python, C++, Java, HTML, CSS, LaTeX
+Platforms: Windows, Linux, Unix
+Tools: NLTK, Vim, Microsoft Office, LibreOffice, Photoshop, Illustrator, InDesign, Inkscape, GIMP
+
+Publications
+Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012:
+ 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
