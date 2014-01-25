@@ -3,18 +3,22 @@ Laurel Hart
  LinkedIn: http://www.linkedin.com/in/laurelehart
  Github: https://github.com/konayashi
 
+Improving on data-driven computational linguistics through knowledge of linguistics.
+
 Education
 Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014 (expected)
+ - Focused on natural language processing, machine learning, and language modeling
+ - Will also cover machine translation, information retrieval, and question answering
  
 Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
-- Minor in Computer Science
-- Honors College
+ - Minor in Computer Science
+ - Honors College
     - Undergraduate thesis: “The Linguistics of Sentiment Analysis”
 
 Experience
 Intern, BCL Technologies, San José, CA.  Winter and Summer 2012
- - Analyzed data for feature selection purposes;
  - Researched various topics, including information extraction, authorship attribution, and semantic role labeling;
+ - Analyzed data for feature selection purposes;
  - Authored demonstration paper for Arabic semantic role labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
     - Published in Proceedings of COLING 2012 (see Publications)
 
@@ -31,10 +35,9 @@ English: Native language
 French; 5 years of academic study
 Mandarin Chinese: 1 year of academic study
 
-Computer skills
-Languages; Python, C++, Java, HTML, CSS, LaTeX
-Platforms: Windows, Linux, Unix
-Tools: NLTK, Vim, Microsoft Office, LibreOffice, Photoshop, Illustrator, InDesign, Inkscape, GIMP
+Technical skills
+Languages; Python, C++, Java, LaTeX, bash
+Tools: NLTK, Mallet, Vim
 
 Publications
 Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012:

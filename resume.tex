@@ -15,15 +15,15 @@
 % adjust the page margins
 \usepackage[scale=0.8]{geometry}
 
-
 %----------------------------------------------------------------------------------
 %            personal data
 %----------------------------------------------------------------------------------
 \name{Laurel}{Hart}
-\input{./extrainfo.tex}
+% could also put phone in
 \email{laurel.elise.hart@gmail.com}
 \social[linkedin]{laurelehart}
 \social[github]{konayashi}
+\quote{Improving on data-driven computational linguistics through knowledge of linguistics.}
 
 %----------------------------------------------------------------------------------
 %            content
@@ -36,7 +36,12 @@
 
 % Education 
 \section{Education}
-\cventry{2013---2014 (expected)}{Professional Masters of Science in Computational Linguistics}{University of Washington}{Seattle, WA}{}{}  
+\cventry{2013---2014 (expected)}{Professional Masters of Science in Computational Linguistics}{\hfill \newline University of Washington}{Seattle, WA}{}{
+\begin{itemize}
+  \item Focused on natural language processing, machine learning, and language modeling
+  \item Will also cover machine translation, information retrieval, and question answering
+\end{itemize}}  
+
 \cventry{2009--2013}{Bachelor of Arts in Applied Linguistics}{Portland State University}{Portland, OR}{}{
 \begin{itemize}
   \item Minor in Computer Science
@@ -50,9 +55,12 @@
 \section{Experience}
 \cventry{Winter and Summer 2012}{Intern}{BCL Technologies}{San Jose, CA}{}{
 \begin{itemize}
+\item Researched various topics, including:\\
+  \begin{tabular*}{.9\textwidth}{@{\extracolsep{\fill}} c c c}
+  \labelitemii\hspace{2pt} information extraction & \labelitemii\hspace{2pt} authorship attribution & \labelitemii\hspace{2pt} semantic role labeling
+  \end{tabular*}
 \item Analyzed data for feature selection purposes;
-\item Researched various topics, including information extraction, authorship attribution, and semantic role labeling;
-\item Authored demonstration paper for Arabic semantic role labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
+\item Authored demonstration paper replicating previous work on Arabic semantic role labeling
   \begin{itemize}
     \item Published in \textit{Proceedings of COLING 2012} (see Publications)
   \end{itemize}
@@ -72,19 +80,31 @@
 
 % Languages
 \section{Languages}
-\cvdoubleitem{English}{Native language}{French}{5 years of academic study}
-\cvdoubleitem{Mandarin Chinese}{1 year of academic study}{}{}
+\cvitem{}{
+  \begin{tabular*}{.8\textwidth}{@{\extracolsep{\fill}} c c c}
+  \textbf{English} & \textbf{French} & \textbf{Mandarin Chinese} \\ 
+  Native language & 5 years academic study & 1 year academic study
+  \end{tabular*}
+}
+%\cvitem{English}{Native language}
+%\cvitem{French}{5 years}
+%\cvitem{Mandarin Chinese}{1 year}
 
-% Computer Skills
-\section{Computer skills}
-\cvitem{Languages}{Python, C++, Java, HTML, CSS, \LaTeX}
-\cvitem{Platforms}{Windows, Linux, Unix}
-\cvitem{Tools}{NLTK, Vim, Microsoft Office, LibreOffice, Photoshop, Illustrator, InDesign, Inkscape, GIMP}
+% Technical Skills
+\section{Technical skills}
+%\cvitem{Languages}{Python, C++, Java, \LaTeX, bash}
+%\cvitem{Tools}{NLTK, Mallet, Vim}
+\cvitem{}{
+%\parskip=0pt\par\nopagebreak\centering % centering without extra vertical space
+  \begin{tabular*}{.6\textwidth}{@{\extracolsep{\fill}} c c}
+  \textbf{Languages} & \textbf{Tools} \\ 
+  Python, C++, Java, \LaTeX, bash & NLTK, Mallet, Vim
+  \end{tabular*}}
+%\par\noindent\ignorespacesafterend % end centering without extra vertical space
 
 % Publications
 \section{Publications}
-\cvitem{2012}{Hart, Laurel, Hassan Alam and Aman Kumar, ``Revisiting Arabic Semantic Role La-
-beling using SVM Kernel Methods'' \textit{Proceedings of COLING 2012}. December, 2012:
+\cvitem{2012}{Hart, Laurel, Hassan Alam and Aman Kumar, ``Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods'' \textit{Proceedings of COLING 2012}. December, 2012:
 207—14. \protect\httplink[http://aclweb.org/anthology//C/C12/C12-3026.pdf]{aclweb.org/anthology//C/C12/C12-3026.pdf}}
 
 \clearpage
