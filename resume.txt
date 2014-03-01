@@ -7,8 +7,9 @@ Improving on data-driven computational linguistics through knowledge of linguist
 
 Education
 Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014 (expected)
- - Focused on natural language processing, machine learning, and language modeling
- - Will also cover machine translation, information retrieval, and question answering
+  - Focused on Natural Language Processing and language modeling;
+  - Specific topics, including Machine Translation, Information Retrieval, and Question Answering;
+  - Machine learning algorithms including kNN, Decision Trees, Naive Bayes, MaxEnt, and SVM
  
 Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
  - Minor in Computer Science
@@ -19,12 +20,12 @@ Experience
 Intern, BCL Technologies, San José, CA.  Winter and Summer 2012
  - Researched various topics, including information extraction, authorship attribution, and semantic role labeling;
  - Analyzed data for feature selection purposes;
- - Authored demonstration paper for Arabic semantic role labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
+ - Authored demonstration paper for Arabic Semantic Role Labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
     - Published in Proceedings of COLING 2012 (see Publications)
 
 Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
- - Provided support for staff and student technologies at the University’s Millar Library
- - Held Team Lead position March, 2013 — June, 2013
+ - Provided support for staff and student technologies at the University’s Millar Library;
+ - Lead five-person student IT team March, 2013 — June, 2013
 
 Apprentice, Braindump, Portland State University, Portland, OR. 2010–2011 
  - Performed IT services for the University’s Computer Science and Engineering department;
