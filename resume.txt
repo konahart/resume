@@ -7,8 +7,8 @@ Improving on data-driven computational linguistics through knowledge of linguist
 
 Education
 Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014 (expected)
-  - Focused on Natural Language Processing and language modeling;
-  - Specific topics, including Machine Translation, Information Retrieval, and Question Answering;
+  - Focused on Natural Language Processing and language modeling
+  - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
   - Machine learning algorithms including kNN, Decision Trees, Naive Bayes, MaxEnt, and SVM
  
 Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
@@ -17,29 +17,31 @@ Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR
     - Undergraduate thesis: “The Linguistics of Sentiment Analysis”
 
 Experience
-Intern, BCL Technologies, San José, CA.  Winter and Summer 2012
- - Researched various topics, including information extraction, authorship attribution, and semantic role labeling;
- - Analyzed data for feature selection purposes;
- - Authored demonstration paper for Arabic Semantic Role Labeling system replicating work from (Diab, et. al., 2007) and (Diab, et. al., 2008)
-    - Published in Proceedings of COLING 2012 (see Publications)
+Intern, BCL Technologies, San Jose, CA.  Winter and Summer 2012
+ - Conducted research on Semantic Role Labeling for Modern Standard Arabic
+     - Authored demonstration paper published in Proceedings of COLING 2012 (see Publications)
+     - Created annotated linguistic data
+- Wrote grant proposals covering range of topics
+    - $80,000 SBIR received for Multi-Lingual Semantic Author Identification
+    - Other research areas: text summarization and spoken language identification
+- Analyzed data for feature selection purposes toward automated financial data extraction
 
 Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
- - Provided support for staff and student technologies at the University’s Millar Library;
- - Lead five-person student IT team March, 2013 — June, 2013
+- Lead five-person student IT team March, 2013 — June, 2013
+    - Coordinated student workers to ensured lab support coverage
+- Provided support for staff and student technologies at the University’s Millar Library
+    - 90 Windows PCs, 36 Windows laptops, 4 Macs, 3 Ricoh printers, 3 scanners
 
 Apprentice, Braindump, Portland State University, Portland, OR. 2010–2011 
- - Performed IT services for the University’s Computer Science and Engineering department;
- - Attended weekly lectures on various topics pertaining to systems administration and general computer systems knowledge
+- Performed IT services for the University’s Computer Science and Engineering department
+    - 137 Windows PCs, 48 Linux PCs, 21 Unix PCs, 8 printers, 3 scanners
 
-Languages
-English: Native language
-French; 5 years of academic study
-Mandarin Chinese: 1 year of academic study
-
-Technical skills
-Languages; Python, C++, Java, LaTeX, bash
-Tools: NLTK, Mallet, Vim
+Technical skills & selected projects
+Languages: English, French, Mandarin Chinese
+Python: Implemented various Machine Learning algorithms, HMM-based POS tagger, basic Word Sense Disambiguation system, CKY recognizer, IRC bot used by 20 users across 2 networks
+NLTK: Wrote several small-scale CFGs, utilizing features and semantic representations
+C++: Learned object-oriented programming; built data structures such as trees and linked lists
+Java: Experimented with custom classes and inheritance
 
 Publications
-Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012:
- 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
+Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf

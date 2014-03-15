@@ -13,7 +13,7 @@
 \usepackage[utf8]{inputenc} 
 
 % adjust the page margins
-\usepackage[scale=0.80]{geometry}
+\usepackage[scale=0.81]{geometry}
 
 %----------------------------------------------------------------------------------
 %            personal data
@@ -23,7 +23,7 @@
 \email{laurel.elise.hart@gmail.com}
 \social[linkedin]{laurelehart}
 \social[github]{konayashi}
-\quote{Improving on data-driven computational linguistics through knowledge of linguistics.}
+%\quote{Improving on data-driven computational linguistics through knowledge of linguistics.}
 
 %----------------------------------------------------------------------------------
 %            content
@@ -32,16 +32,16 @@
 
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
-\vspace*{-9mm}
+\vspace*{-12mm}
 
 % Education 
 \section{Education}
 \cventry{2013---2014 (expected)}{Professional Masters of Science in Computational Linguistics}{\hfill \newline University of Washington}{Seattle, WA}{}{
 \begin{itemize}
-  \item Focused on Natural Language Processing and language modeling. Specific topics include:
-  \begin{tabular*}{.9\textwidth}{@{\extracolsep{\fill}} c c c}
-  \labelitemii\hspace{2pt} Machine Translation & \labelitemii\hspace{2pt} Information Retrieval & \labelitemii\hspace{2pt} Question Answering
-  \end{tabular*}
+  \item Focused on Natural Language Processing and language modeling
+  \begin{itemize}
+  \item Specific topics include: Machine Translation, Information Retrieval, and Question Answering
+  \end{itemize}
   \item Machine learning algorithms including kNN, Decision Trees, Na\"{i}ve Bayes, MaxEnt, and SVM
 \end{itemize}}  
 
@@ -58,56 +58,52 @@
 \section{Experience}
 \cventry{Winter and Summer 2012}{Intern}{BCL Technologies}{San Jose, CA}{}{
 \begin{itemize}
-\item Researched various topics, including:\\
-  \begin{tabular*}{.9\textwidth}{@{\extracolsep{\fill}} c c c}
-  \labelitemii\hspace{2pt} Information Extraction & \labelitemii\hspace{2pt} Authorship Attribution & \labelitemii\hspace{2pt} Semantic Role Labeling
-  \end{tabular*}
-\item Analyzed data for feature selection purposes;
-\item Authored demonstration paper replicating previous work on Arabic Semantic Role Labeling
+\item Conducted research on Semantic Role Labeling for Modern Standard Arabic
   \begin{itemize}
-    \item Published in \textit{Proceedings of COLING 2012} (see Publications)
+    \item Authored demonstration paper published in \textit{Proceedings of COLING 2012} (see Publications)
+    \item Created annotated linguistic data
   \end{itemize}
+\item Wrote grant proposals covering range of topics
+  \begin{itemize}
+  \item \$80,000 SBIR received for Multi-Lingual Semantic Author Identification
+  \item Other research areas: text summarization and spoken language identification
+   \end{itemize}
+\item Analyzed data for feature selection purposes toward automated financial data extraction
 \end{itemize}}
 
 \cventry{2011---2013}{Library Technology Assistant}{Portland State University}{Portland, OR}{}{
 \begin{itemize}
-\item Provided support for staff and student technologies at the University’s Millar Library;
 \item Lead five-person student IT team March, 2013 --- June, 2013
+  \begin{itemize}
+  \item Coordinated student workers to ensured lab support coverage
+  \end{itemize}
+\item Provided support for staff and student technologies at the University’s Millar Library
+  \begin{itemize}
+  \item 90 Windows PCs, 36 Windows laptops, 4 Macs, 3 Ricoh printers, 3 scanners
+  \end{itemize}
 \end{itemize}}
 
 \cventry{2010---2011}{Apprentice}{Braindump, Portland State University}{Portland, OR}{}{
 \begin{itemize}
-\item Performed IT services for the University’s Computer Science and Engineering department;
-\item Attended weekly lectures on various topics pertaining to systems administration and general computer systems knowledge
+\item Performed IT services for the University’s Computer Science and Engineering department
+  \begin{itemize}
+  \item 137 Windows PCs, 48 Linux PCs, 21 Unix PCs, 8 printers, 3 scanners
+  \end{itemize}
+%\item Attended weekly lectures on various topics pertaining to systems administration and general computer systems knowledge
 \end{itemize}}
 
-% Languages
-\section{Languages}
-\cvitem{}{
-  \begin{tabular*}{.8\textwidth}{@{\extracolsep{\fill}} c c c}
-  \textbf{English} & \textbf{French} & \textbf{Mandarin Chinese} \\ 
-  Native language & 5 years academic study & 1 year academic study
-  \end{tabular*}
-}
-%\cvitem{English}{Native language}
-%\cvitem{French}{5 years}
-%\cvitem{Mandarin Chinese}{1 year}
-
 % Technical Skills
-\section{Technical skills}
-%\cvitem{Languages}{Python, C++, Java, \LaTeX, bash}
-%\cvitem{Tools}{NLTK, Mallet, Vim}
-\cvitem{}{
-%\parskip=0pt\par\nopagebreak\centering % centering without extra vertical space
-  \begin{tabular*}{.6\textwidth}{@{\extracolsep{\fill}} c c}
-  \textbf{Languages} & \textbf{Tools} \\ 
-  Python, C++, Java, \LaTeX, bash & NLTK, Mallet, Vim
-  \end{tabular*}}
-%\par\noindent\ignorespacesafterend % end centering without extra vertical space
+\section{Technical skills \& selected projects}
+\cvitem{\textbf{Languages}}{English, French, Mandarin Chinese}
+\cvitem{\textbf{Python}}{Implemented various Machine Learning algorithms, HMM-based POS tagger, basic Word Sense Disambiguation system, CKY recognizer, IRC bot used by 20 users across 2 networks}
+\cvitem{\textbf{NLTK}}{Wrote several small-scale CFGs, utilizing features and semantic representations}
+%\cvitem{Mallet}{Trained a text classifier with over 90\% accuracy}
+\cvitem{\textbf{C++}}{Learned object-oriented programming; built data structures such as trees and linked lists}
+\cvitem{\textbf{Java}}{Experimented with custom classes and inheritance}
 
 % Publications
 \section{Publications}
-\cvitem{2012}{Hart, Laurel, Hassan Alam and Aman Kumar, ``Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods'' \textit{Proceedings of COLING 2012}. December, 2012:
+\cvitem{2012}{Hart, Laurel, Hassan Alam and Aman Kumar, ``\textbf{Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods}'' \textit{Proceedings of COLING 2012}. December, 2012:
 207—14. \protect\httplink[http://aclweb.org/anthology//C/C12/C12-3026.pdf]{aclweb.org/anthology//C/C12/C12-3026.pdf}}
 
 \clearpage
