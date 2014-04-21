@@ -13,8 +13,7 @@ Professional Masters of Science in Computational Linguistics, University of Wash
  
 Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
  - Minor in Computer Science
- - Honors College
-    - Undergraduate thesis: “The Linguistics of Sentiment Analysis”
+ - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis”
 
 Experience
 Intern, BCL Technologies, San Jose, CA.  Winter and Summer 2012
@@ -37,11 +36,25 @@ Apprentice, Braindump, Portland State University, Portland, OR. 2010–2011
     - 137 Windows PCs, 48 Linux PCs, 21 Unix PCs, 8 printers, 3 scanners
 
 Technical skills & selected projects
-Languages: English, French, Mandarin Chinese
-Python: Implemented various Machine Learning algorithms, HMM-based POS tagger, basic Word Sense Disambiguation system, CKY recognizer, IRC bot used by 20 users across 2 networks
-NLTK: Wrote several small-scale CFGs, utilizing features and semantic representations
-C++: Learned object-oriented programming; built data structures such as trees and linked lists
-Java: Experimented with custom classes and inheritance
+Python:
+ - various Machine Learning algorithms
+ - HMM-based POS tagger
+ - Word Sense Disambiguation system
+ - CKY parser
+ - IRC bot used by 20 users across 2 networks
+NLTK: 
+ - Created several Context Free Grammars, utilizing features and semantic representations
+ - utilized tokenization, parsing, and corpus tools
+Current: 
+ - Aquaponics web interface (Human-Computer Interaction study)
+ - Question-Answering system (Java)
+ - Sentiment Analysis system (Python)
+Additional:
+ - C++
+ - Java
+ - Mallet
+ - Bash
+ - Git
 
 Publications
 Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
