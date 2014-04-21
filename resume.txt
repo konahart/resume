@@ -41,14 +41,14 @@ Python:
  - HMM-based POS tagger
  - Word Sense Disambiguation system
  - CKY parser
- - IRC bot used by 20 users across 2 networks
 NLTK: 
  - Created several Context Free Grammars, utilizing features and semantic representations
  - utilized tokenization, parsing, and corpus tools
 Current: 
  - Aquaponics web interface (Human-Computer Interaction study)
- - Question-Answering system (Java)
+ - sophisticated Question-Answering system (Java)
  - Sentiment Analysis system (Python)
+ - promptbot: an IRC bot used by 20 users across 2 networks (Python, ongoing)
 Additional:
  - C++
  - Java
