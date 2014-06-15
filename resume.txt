@@ -37,18 +37,19 @@ Apprentice, Braindump, Portland State University, Portland, OR. 2010–2011
 
 Technical skills & selected projects
 Python:
- - various Machine Learning algorithms
+ - Various Machine Learning algorithms
  - HMM-based POS tagger
  - Word Sense Disambiguation system
  - CKY parser
 NLTK: 
  - Created several Context Free Grammars, utilizing features and semantic representations
- - utilized tokenization, parsing, and corpus tools
+ - Utilized tokenization, parsing, and corpus tools
 Current: 
- - Aquaponics web interface (Human-Computer Interaction study)
- - sophisticated Question-Answering system (Java)
- - Sentiment Analysis system (Python)
- - promptbot: an IRC bot used by 20 users across 2 networks (Python, ongoing)
+ - Multilingual relation extractor (Java)
+ - Promptbot: an IRC bot used by 20 users across 2 networks (Python, ongoing)
+Recent:
+ - Aquaponics web interface design (Human Computer Interaction)
+ - Product review sentiment analysis research (Python)
 Additional:
  - C++
  - Java
