@@ -16,14 +16,20 @@ Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR
  - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis”
 
 Experience
+Research Assistant, University of Washington - CSE, Seattle, WA., current (2014)
+ - Designed and implemented training data pipeline for multi-linguistic relation extraction system, MultiR
+ - Managed large corpora:
+   - Gigaword English, Spanish, and Chinese corpora: over 9 million documents
+   - Freebase: currently over 2 billion facts
+ - Utilized NLP tools for English, Spanish, and Chinese
+   - Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.
+
 Intern, BCL Technologies, San Jose, CA.  Winter and Summer 2012
  - Conducted research on Semantic Role Labeling for Modern Standard Arabic
      - Authored demonstration paper published in Proceedings of COLING 2012 (see Publications)
      - Created annotated linguistic data
-- Wrote grant proposals covering range of topics
-    - $80,000 SBIR received for Multi-Lingual Semantic Author Identification
-    - Other research areas: text summarization and spoken language identification
-- Analyzed data for feature selection purposes toward automated financial data extraction
+- Wrote grant proposals, awarded $80,000 SBIR for Multi-Lingual Semantic Author Identification
+    - Other research areas: text summarization and spoken language identification, automated financial data extraction
 
 Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
 - Lead five-person student IT team March, 2013 — June, 2013
@@ -56,6 +62,7 @@ Additional:
  - Mallet
  - Bash
  - Git
+ - Maven
 
 Publications
 Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf

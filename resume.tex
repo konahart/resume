@@ -14,7 +14,7 @@
 
 % adjust the page margins
 % scale bigger -> smaller margins
-\usepackage[margin=15mm]{geometry}
+\usepackage[margin=6mm]{geometry}
 
 %----------------------------------------------------------------------------------
 %            personal data
@@ -33,7 +33,7 @@
 
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
-\vspace*{-8mm}
+\vspace*{-13mm}
 
 % Education 
 \section{Education}
@@ -54,6 +54,20 @@
 
 % Experience
 \section{Experience}
+\cventry{Current (2014)}{Research Assistant}{University of Washington - CSE}{Seattle, WA}{}{
+\begin{itemize}
+\item Designed and implemented training data pipeline for multi-linguistic relation extraction system, MultiR
+\item Managed large corpora:
+  \begin{itemize}
+  \item Gigaword English, Spanish, and Chinese corpora: over 9 million documents
+  \item Freebase: currently over 2 billion facts
+  \end{itemize}
+\item Utilized NLP tools for English, Spanish, and Chinese
+  \begin{itemize}
+  \item Stanford's CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.
+  \end{itemize}
+\end{itemize}}
+
 \cventry{Winter and Summer 2012}{Intern}{BCL Technologies}{San Jose, CA}{}{
 \begin{itemize}
 \item Conducted research on Semantic Role Labeling for Modern Standard Arabic
@@ -61,12 +75,8 @@
     \item Authored demonstration paper published in \textit{Proceedings of COLING 2012} (see Publications)
     \item Created annotated linguistic data
   \end{itemize}
-\item Wrote grant proposals covering range of topics
-  \begin{itemize}
-  \item \$80,000 SBIR received for Multi-Lingual Semantic Author Identification
-  \item Other research areas: text summarization and spoken language identification
-   \end{itemize}
-\item Analyzed data for feature selection purposes toward automated financial data extraction
+\item Wrote grant proposal, awarded \$80,000 SBIR for Multi-Lingual Semantic Author Identification
+\item Other research areas: text summarization and spoken language identification, automated financial data extraction
 \end{itemize}}
 
 \cventry{2011---2013}{Library Technology Assistant}{Portland State University}{Portland, OR}{}{
@@ -94,9 +104,9 @@
 \section{Technical skills \& selected projects}
 \cvitem{\textbf{Python}}{Implemented various Machine Learning algorithms, HMM-based Part-of-Speech tagger, Word Sense Disambiguation system, and CKY parser}
 \cvitem{\textbf{NLTK}}{Created several Context Free Grammars, utilizing features and semantic representations; utilized tokenization, parsing, and corpus tools}
-\cvitem{\textbf{Current}}{Multilingual relation extractor (Java), promptbot: an IRC bot used by 20 users across 2 networks that dispenses writing prompts (Python, ongoing)}
+\cvitem{\textbf{Current}}{Multilingual relation extraction system (Java), promptbot: an IRC bot used by 20 users across 2 networks that dispenses writing prompts (Python, ongoing)}
 \cvitem{\textbf{Recent}}{Aquaponics web interface design (Human Computer Interaction), product review sentiment analysis research (Python)}
-\cvitem{\textbf{Additional}}{C++, Java, Mallet, Bash, Git}
+\cvitem{\textbf{Additional}}{C++, Java, Mallet, Bash, Git, Maven}
 
 % Publications
 \section{Publications}
