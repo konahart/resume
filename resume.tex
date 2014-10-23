@@ -4,7 +4,7 @@
 \documentclass[11pt,letterpaper]{moderncv}
 
 \moderncvstyle{classic} % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-
+\moderncvicons{awesome}
 \moderncvcolor{green} % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 \nopagenumbers{}
@@ -26,9 +26,10 @@
 \usepackage{droidsans}
 
 \renewcommand*{\namestyle}[1]{{\namefont\usefont{T1}{fdr}{bx}{ui}\textcolor{color1}{#1}}}
+\renewcommand*{\titlestyle}[1]{{\titlefont\usefont{T1}{fdr}{bx}{ui}\huge\textcolor{color2}{#1}}}
 \renewcommand*{\sectionstyle}[1]{{\sectionfont\fontsize{13}{12}\usefont{T1}{fdr}{m}{n}\textcolor{color1}{#1}}}
 
-%To flip the details and names sections (details to left, name to right) 
+%To flip the details and names sections (details to left, name to right)
 %uncomment the following. This would look better with text instead of symbols
 %next to the details, so won't be used for now.
 %\makeatletter
@@ -118,7 +119,7 @@
 %            personal data
 %----------------------------------------------------------------------------------
 \name{Laurel}{Hart\vspace*{-4mm}} %sorry this part is a bit hacky
-\title{\hspace{.25in}\usefont{T1}{fdr}{bx}{ui}\huge\textcolor{color2}{Computational Linguist}}
+\title{\hspace{.25in}{Computational Linguist}}
 % could also put phone in
 \email{laurel.elise.hart@gmail.com}
 \homepage{konahart.com}
@@ -218,4 +219,3 @@
 
 \clearpage
 \end{document}
-
