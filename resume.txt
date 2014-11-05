@@ -1,0 +1,72 @@
+Laurel Hart - Computational Linguist
+ Email: laurel.elise.hart@gmail.com
+ Website: konahart.com
+ LinkedIn: http://www.linkedin.com/in/laurelehart
+ Github: https://github.com/konayashi
+
+Education
+Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
+  - Completed intensive, 2-year graduate-level program in 1 year
+  - Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
+    - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
+
+Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
+ - Minor in Computer Science
+ - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis”
+
+Experience
+Research Assistant, University of Washington - CSE, Seattle, WA. 2014
+ - Designed and implemented Java training data pipeline for multi-linguistic relation extraction system, MultiR
+ - Worked with large corpora:
+   - Gigaword English, Spanish, and Chinese corpora: over 9 million documents
+   - Freebase: currently over 2 billion facts
+ - Utilized Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.
+
+Intern, BCL Technologies, San Jose, CA.  Winter and Summer 2012
+ - Conducted research on Semantic Role Labeling for Modern Standard Arabic
+    - Authored demonstration paper published in Proceedings of COLING 2012 (see Publications)
+    - Created annotated linguistic data
+- Wrote grant proposals, company awarded $80,000 SBIR toward Multilingual Author Identification
+- Other research areas: text summarization, spoken language identification, automated financial data extraction
+
+Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
+- Team Lead of five-person student IT team March, 2013 — June, 2013
+    - Coordinated student workers to ensured lab support coverage
+    - Created training materials for new hires and oversaw training
+- Provided support for staff and student technologies at the University’s Millar Library
+    - 90 Windows PCs, 36 Windows laptops, 4 Macs, 3 Ricoh printers, 3 scanners
+
+Technical skills & selected projects
+Machine Learning:
+ - kNN
+ - Decision Trees
+ - Naive Bayes
+ - MaxEnt
+ - SVM
+Natural Language Processing:
+ - HMM-based Part-of-Speech tagger
+ - Word Sense Disambiguation system
+ - CKY parser
+ - tokenization
+ - Context Free Grammars incorporating features and semantic representations
+Current:
+ - Promptbot: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python, ongoing)
+Recent:
+ - Training pipeline for a multilingual relation extraction system (Java)
+ - Aquaponics web interface design (Human Computer Interaction)
+ - Product review sentiment analysis research (Python)
+Languages:
+ - Python
+ - Java
+ - C++
+Additional:
+ - NLTK
+ - Mallet
+ - Stanford CoreNLP
+ - Maven
+ - Git
+ - Bash
+ - LaTeX
+
+Publications
+Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf

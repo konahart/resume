@@ -1,0 +1,20 @@
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+highlighter: pygments
+markdown:    kramdown
+permalink:   /:year/:month/:title
+
+title:       Laurel Hart's Resume
+description: Resume
+base:        http://konahart.github.io/resume
+author:      Laurel Hart
+email:       laurel.elise.hart@gmail.com
+
+exclude:     [drafts, _site, scripts]
