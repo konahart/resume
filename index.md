@@ -34,7 +34,7 @@ Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#00000
 
 <p><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014 <br />
 <ul>
-<li>Designed and implemented training data pipeline for multi-linguistic relation extraction system, MultiR</li>
+<li>Designed and implemented <a href="https://github.com/konahart/relation-extraction-pipeline">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
 <li>Managed large corpora:
 	<ul>
 	<li>Gigaword English, Spanish, and Chinese corpora: over 9 million documents</li>
@@ -123,8 +123,8 @@ Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#00000
 
 <p><strong>Recent</strong> <br />
 <ul>
-<li>Multilingual relation extraction system (Java)</li>
-<li>Aquaponics web interface design (Human Computer Interaction)</li>
+<li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a> (Java)</li>
+<li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a> (Human Computer Interaction)</li>
 <li>Sentiment analysis on Amazon product review corpus (Python)</li>
 </ul>
 </p>
