@@ -1,0 +1,89 @@
+/* Hierarchical summary elements */
+
+#listContainer{
+  margin-top:15px;
+}
+
+ul, li {
+    padding-left: 10px;
+}
+
+.alwaysShow {
+    padding-bottom: 5px;
+}
+
+.expList ul, li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.expList p {
+    margin:0;
+    display:block;
+}
+.expList p:hover {
+    background-color:#121212;
+}
+.expList li {
+    line-height:140%;
+    text-indent:0px;
+
+    margin-right:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.expList li li {
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+
+li:before {
+    content: "\2022 \020 \020";
+    color: #59B34C;
+    font-weight: bold;
+}
+
+/* list elements that don't have children to be collapsed */
+.expList li:before {
+    content: "\2013 \020 \020";
+    color: #59B34C;
+    font-weight: bold;
+}
+
+/* Collapsed state for list element */
+.expList .collapsed:before {
+    background-image: url(../img/collapsed.png);
+    content: "+ \020 \020";
+    color: #59B34C;
+    font-weight: bold;
+}
+/* Expanded state for list element
+/* NOTE: This class must be located UNDER the collapsed one */
+.expList .expanded:before {
+    content: "\2013 \020 \020";
+    color: #59B34C;
+    /* font-weight: bold; */
+}
+
+.expList {
+    clear: both;
+}
+
+.listControl{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.listControl a {
+    border: 1px solid #555555;
+    color: #555555;
+    cursor: pointer;
+    height: 1.5em;
+    line-height: 1.5em;
+    margin-right: 5px;
+    padding: 4px 10px;
+}
+
+.listControl a:hover {
+    color: #59B34C;
+}

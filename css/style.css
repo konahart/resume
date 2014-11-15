@@ -4,20 +4,20 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 
 body {
-        text-align: center;
-            font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 h2, h3 {
-        font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 h1 {
-        margin-bottom: -20px;
-            text-align: center;
-                color: #59B34C;
-                    font-family: 'Great Vibes', cursive;
-                        font-size: 5em;
+    margin-bottom: -20px;
+    text-align: center;
+    color: #59B34C;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5em;
 }
 
 h1:first-child + p {
