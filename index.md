@@ -7,9 +7,9 @@ layout: default
 <script type="text/javascript" src="js/collapseList.js">
 </script>
 <div class="listControl">
-    <a id="expandList">Expand All</a>
-    <a id="highlights">Highlights</a>
     <a id="collapseList">Collapse All</a>
+    <a id="highlights">Summary</a>
+    <a id="expandList">Expand All</a>
 </div>
 
 <h3>Contact Information</h3>

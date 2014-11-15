@@ -1,7 +1,7 @@
 /* Hierarchical summary elements */
 
 #listContainer{
-  margin-top:15px;
+    margin-top:15px;
 }
 
 ul, li {
@@ -52,7 +52,6 @@ li:before {
 
 /* Collapsed state for list element */
 .expList .collapsed:before {
-    background-image: url(../img/collapsed.png);
     content: "+ \020 \020";
     color: #59B34C;
     font-weight: bold;
@@ -70,8 +69,8 @@ li:before {
 }
 
 .listControl{
-    margin-bottom: 15px;
-    text-align: center;
+    margin-top: 8px;
+    float: right;
 }
 
 .listControl a {
