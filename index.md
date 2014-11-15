@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<link type="text/css" rel="stylesheet" href="/css/collapseList.css">
-<script type="text/javascript" src="/js/jquery-1.4.2.min.js">
+<link type="text/css" rel="stylesheet" href="css/collapseList.css">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js">
 </script>
-<script type="text/javascript" src="/js/collapseList.js">
+<script type="text/javascript" src="js/collapseList.js">
 </script>
 <div class="listControl">
     <a id="expandList">Expand All</a>
