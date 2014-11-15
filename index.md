@@ -8,7 +8,7 @@ layout: default
 </script>
 <div class="listControl">
     <a id="expandList">Expand All</a>
-    <!-- <a id="highlights">Highlights</a> -->
+    <a id="highlights">Highlights</a>
     <a id="collapseList">Collapse All</a>
 </div>
 
@@ -25,7 +25,7 @@ layout: default
 <h3>Education</h3>
 
 <ul class="expList">
-<li class="alwaysShow"><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
+<li class="alwaysShow highlight"><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
     <ul>
     <li>Completed intensive, 2-year graduate-level program in 1 year</li>
     <li>Focused on Natural Language Processing, Machine Learning, and language modeling
@@ -36,7 +36,7 @@ layout: default
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
+<li class="alwaysShow highlight"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
     <ul>
     <li>Minor in Computer Science</li>
     <li>Honors College, undergraduate thesis: "The Linguistics of Sentiment Analysis"</li>
@@ -47,10 +47,10 @@ layout: default
 <h3>Experience</h3>
 
 <ul class="expList">
-<li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
+<li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
     <li>Designed and implemented <a href="https://github.com/konahart/relation-extraction-pipeline">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
-    <li>Managed large corpora:
+    <li>Worked with large corpora
 	<ul>
 	<li>Gigaword English, Spanish, and Chinese corpora: over 9 million documents</li>
 	<li>Freebase: currently over 2 billion facts</li>
@@ -60,7 +60,7 @@ layout: default
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
+<li class="alwaysShow highlight"><strong>Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
     <ul>
     <li>Conducted research on Semantic Role Labeling for Modern Standard Arabic
 	<ul>
@@ -69,7 +69,7 @@ layout: default
 	</ul>
     </li>
     <li>Wrote grant proposals, company awarded $80,000 SBIR for Multilingual Author Identification</li>
-    <li>Other research areas:
+    <li>Additional research areas
 	<ul>
 	<li>text summarization</li>
 	<li>spoken language identification</li>
@@ -111,7 +111,7 @@ layout: default
 <h3>Selected projects</h3>
 
 <ul class="expList">
-<li class="alwaysShow"><strong>Machine Learning</strong>
+<li class="alwaysShow highlight"><strong>Machine Learning</strong>
     <ul>
     <li>kNN</li>
     <li>Decision Trees</li>
@@ -121,7 +121,7 @@ layout: default
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Natural Language Processing</strong>
+<li class="alwaysShow highlight"><strong>Natural Language Processing</strong>
     <ul>
     <li>HMM-based Part-of-Speech tagger</li>
     <li>Word Sense Disambiguation system</li>
@@ -131,13 +131,13 @@ layout: default
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Current</strong>
+<li class="alwaysShow highlight"><strong>Current</strong>
     <ul>
     <li><a href="/promptbot">Promptbot</a>: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python, ongoing)</li>
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Recent</strong>
+<li class="alwaysShow highlight"><strong>Recent</strong>
     <ul>
     <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a> (Java)</li>
     <li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a> (Human Computer Interaction)</li>
