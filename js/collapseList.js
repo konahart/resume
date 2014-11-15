@@ -26,8 +26,6 @@ function prepareList() {
     
     $('.expList a[href*=#]').unbind('click').click(function(){
             var link = $('[name="' + $.attr(this, 'href').substr(1) + '"]');
-            console.log(link)
-            if $( link ) {
                 $( link ).addClass('expanded');
                 $( link ).parents().not('ul').addClass('expanded');
                 $( link ).parents().show('medium');
@@ -35,9 +33,9 @@ function prepareList() {
                     scrollTop: $( link ).offset().top
                 }, 500);
                 $( link ).children().show('medium');
-            } else {
+            /*} else {
                 window.open($(this).attr('href'));
-            }
+            }*/
             return false;
     });
     
