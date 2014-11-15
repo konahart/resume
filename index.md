@@ -28,9 +28,22 @@ layout: default
 <li class="alwaysShow highlight"><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
     <ul>
     <li>Completed intensive, 2-year graduate-level program in 1 year</li>
-    <li>Focused on Natural Language Processing, Machine Learning, and language modeling
+    <li class="highlight">Focused on Natural Language Processing, Machine Learning, and language modeling
         <ul>
-	<li> Specific topics include: Machine Translation, Information Retrieval, and Question Answering</li>
+	<li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
+	<li>Extensive and challenging course load
+            <ul>
+            <li>CSE 510 &raquo; Advanced Topics in Human Computer Interaction with Alan Borning</li>
+            <li>LING 533 &raquo; Methods of Sociolinguistics (Sociolinguistics II) with Alicia Wassink</li>
+            <li>LING 542 &raquo; Semantics I with Yin Li</li>
+            <li>LING 566 &raquo; Introduction to Syntax for Computational Linguists with Emily Bender</li>
+            <li>LING 570 &raquo; Shallow Processing Techniques for Natural Language Processing with Fei Xia</li>
+            <li>LING 571 &raquo; Deep Processing for Natural Language Processing with Gina Levow</li>
+            <li>LING 572 &raquo; Advanced Statistical Methods in Natural Language Processing with Fei Xia</li>
+            <li>LING 573 &raquo; Natural Language Processing Systems and Applications: Question Answering with Gina Levow</li>
+            <li>LING 575 &raquo; Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis) with Gina Levow</li>
+            </ul>
+        </li>
 	</ul>
     </li>
     </ul>
@@ -39,7 +52,28 @@ layout: default
 <li class="alwaysShow highlight"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
     <ul>
     <li>Minor in Computer Science</li>
-    <li>Honors College, undergraduate thesis: "The Linguistics of Sentiment Analysis"</li>
+    <li>Honors College, undergraduate thesis: <a href="#lingOfSent">"The Linguistics of Sentiment Analysis"</a></li>
+    <li>Solid foundations in both Linguistics and Computer Science
+        <ul>
+        <li>CS 201 &raquo; Computer Systems Programming with Jingke Li</li>
+        <li>CS 202 &raquo; Programming Systems with Karla Fant</li>
+        <li>CS 250 &raquo; Discrete Structures I with Sergio Antoy</li>
+        <li>CS 251 &raquo; Discrete Structures II with Martin Cenek</li>
+        <li>CS 311 &raquo; Computational Structures with James Hook</li>
+        <li>CS 406 &raquo; Independent Study: Document Classification on Retracted Papers with Bart Massey</li>
+        <li>CS 410 &raquo; Counting, Probability, and Computing with Tom Shrimpton</li>
+        <li>LING 390 &raquo; Introduction to Linguistics with Jeff Conn</li>
+        <li>LING 407 &raquo; Linguistic Methodology (Fieldwork and Ethics) with Tucker Childs</li>
+        <li>LING 411 &raquo; Syntax with Lynn Santelmann</li>
+        <li>LING 415 &raquo; Phonetics with Jeff Conn</li>
+        <li>LING 420 &raquo; Historical &amp; Comparative Linguistics with Tucker Childs</li>
+        <li>LING 432 &raquo; Sociolinguistics with Tucker Childs</li>
+        <li>LING 435 &raquo; Applied Linguistics with John Hellerman</li>
+        <li>LING 490 &raquo; History of English with John Hellerman</li>
+        <li>LING 492 &raquo; Structure of the English Language with Susan Conrad</li>
+        <li>PHL 322 &raquo; Minds and Machines with Joshua Fost</li>
+        </ul>
+    </li>
     </ul>
 </li>
 </ul>
@@ -62,9 +96,9 @@ layout: default
 
 <li class="alwaysShow highlight"><strong>Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
     <ul>
-    <li>Conducted research on Semantic Role Labeling for Modern Standard Arabic
+    <li class="highlight">Conducted research on Semantic Role Labeling for Modern Standard Arabic
 	<ul>
-	<li>Authored demonstration paper published in Proceedings of COLING 2012 (see Publications)</li>
+	<li>Authored <a href="#arabicSRL">demonstration paper</a> published in Proceedings of COLING 2012</li>
 	<li>Created annotated linguistic data</li>
 	</ul>
     </li>
@@ -104,6 +138,19 @@ layout: default
 	</ul>
     </li>
     <li>Attended weekly lectures on various topics pertaining to systems administration and general computer systems knowledge</li>
+    </ul>
+</li>
+
+<li class="alwaysShow"><strong>Volunteer</strong>, <i>Lake Oswego Public Library</i>, Lake Oswego, OR., 2003 &mdash; 2019
+    <ul>
+    <li>Brainstormed programming and events for teens as a member of the Teen Library Board</li>
+    <li>Organized and led events
+        <ul>
+        <li>creative writing workshops</li>
+        <li>video game nights</li>
+        <li>graphic novel discussion groups</li>
+        </ul>
+    </li>
     </ul>
 </li>
 </ul>
@@ -170,12 +217,27 @@ layout: default
 </li>
 </ul>
 
-<h3>Publications</h3>
+<h3><a name="pubs" id="pubs"></a>Publications</h3>
 
 <ul class="expList">
+<li class="alwaysShow"><strong>2013</strong>
+    <ul>
+    <li name="lingOfSent">Hart, Laurel, <strong><i><a href="http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses">The Linguistics of Sentiment Analysis</a></i></strong> Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses">http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses</a>
+        <ul>
+        <li>Computational linguistics is a field that was founded by linguists, but more recently is the domain of more computer scientists than linguists. Use of data-driven and machine learning methods for computational linguistics applications is now more common than hand­written linguistic rules. In order for a linguist to enter the field, it is essential that he or she be familiar with methods and techniques from computer science.</li>
+        <li>The purpose of this paper is two­fold. The first is to serve as a linguist's introduction to concepts from outside of linguistics that are used in computational linguistics. The second purpose is to illustrate the use of linguistic features for a specific task known as sentiment analysis. This task involves determining the sentiment of a piece of text. By way of examining linguistics within sentiment analysis, this paper will begin to gesture at the potential role for linguists in the modern field of computational linguistics as a whole. The goal is to encourage and enable linguists to re-engage with computational linguistics by providing a suitable introductory work.</li>
+        </ul>
+        </li>
+    </ul>
+</li>
+    
 <li class="alwaysShow highlight"><strong>2012</strong>
     <ul>
-    <li>Hart, Laurel, Hassan Alam and Aman Kumar, <strong><a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">"Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods"</a></strong> <i>Proceedings of COLING 2012</i>. December, 2012: 207—14. <a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">http://aclweb.org/anthology//C/C12/C12-3026.pdf</a></li>
+    <li name="arabicSRL">Hart, Laurel, Hassan Alam and Aman Kumar, <strong><a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">"Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods"</a></strong> <i>Proceedings of COLING 2012</i>. December, 2012: 207—14. <a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">http://aclweb.org/anthology//C/C12/C12-3026.pdf</a>
+        <ul>
+        <li>As a critical language, there is huge potential for the usefulness of an Arabic Semantic Role Labeling (SRL) system. This task involves two subtasks: predicate argument boundary detection and argument classification. Based on the innovations of Diab, Moschitti, and Pighin (2007) in the field of Arabic Natural Language Processing (NLP), SRL in particular, we are currently developing a system for automatic SRL in Arabic.</li>
+        </ul>
+        </li>
     </ul>
 </li>
 </ul>
