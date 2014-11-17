@@ -10,7 +10,9 @@ function prepareList() {
 
     $('.expList').find('li:has(ul)')
     .click( function(event) {
-        if (this == event.target || this.parent() == event.target ) {
+        if ( event.target == this 
+            || ( event.target.parentNode == this 
+                && event.target.tagName.toLowerCase() != 'a') ) {
             $(this).toggleClass('expanded');
             $(this).children('ul').toggle('medium');
         }
@@ -24,26 +26,23 @@ function prepareList() {
     highlights
     .addClass('collapsed expanded')
     
-    $('.expList a[href*=#]').unbind('click').click(function(){
-            var link = $('[name="' + $.attr(this, 'href').substr(1) + '"]');
-                $( link ).addClass('expanded');
-                $( link ).parents().not('ul').addClass('expanded');
-                $( link ).parents().show('medium');
-                $( root ).animate({
-                    scrollTop: $( link ).offset().top
-                }, 500);
-                $( link ).children().show('medium');
-            /*} else {
-                window.open($(this).attr('href'));
-            }*/
-            return false;
+    $('.expList a').unbind('click').click(function(){
+        var link = $(this).attr('href');
+        var fragment = link.split('#')[1];
+        if ( fragment ) {
+            fragment = $('[name="' + link.substr(1) + '"]');
+            $( fragment ).addClass('expanded');
+            $( fragment ).parents().not('ul').addClass('expanded');
+            $( fragment ).parents().show('medium');
+            $( root ).animate({
+                scrollTop: $( fragment ).offset().top
+            }, 500);
+            $( fragment ).children().show('medium');
+        } else {
+            window.open( link );
+        }
+        return false;
     });
-    
-    //Hack to add links inside the cv
-    /*$('.expList a').unbind('click').click(function() {
-        window.open($(this).attr('href'));
-	    return false;
-    });*/
 
     //Create the button funtionality
     $('#highlights')
