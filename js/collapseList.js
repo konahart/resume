@@ -10,7 +10,7 @@ function prepareList() {
 
     $('.expList').find('li:has(ul)')
     .click( function(event) {
-        if (this == event.target ) {
+        if (this == event.target || this.parent() == event.target ) {
             $(this).toggleClass('expanded');
             $(this).children('ul').toggle('medium');
         }
