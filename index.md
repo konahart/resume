@@ -141,7 +141,7 @@ layout: default
     </ul>
 </li>
 
-<li class="alwaysShow"><strong>Volunteer</strong>, <i>Lake Oswego Public Library</i>, Lake Oswego, OR., 2003 &mdash; 2019
+<li class="alwaysShow"><strong>Volunteer</strong>, <i>Lake Oswego Public Library</i>, Lake Oswego, OR., 2003 &mdash; 2009
     <ul>
     <li>Brainstormed programming and events for teens as a member of the Teen Library Board</li>
     <li>Organized and led events
