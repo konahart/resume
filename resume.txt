@@ -2,7 +2,7 @@ Laurel Hart - Computational Linguist
  Email: laurel.elise.hart@gmail.com
  Website: konahart.com
  LinkedIn: http://www.linkedin.com/in/laurelehart
- Github: https://github.com/konayashi
+ Github: https://github.com/konahart
 
 Education
 Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
