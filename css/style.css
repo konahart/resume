@@ -51,7 +51,7 @@ hr {
 
 .container {
     max-width: 700px;
-    margin: 0 auto 20px;
+    margin: 0 auto 10px;
     text-align: left;
     background: #FFF;
     padding: 0px 70px 1px;
@@ -78,9 +78,13 @@ a, a:visited, a:hover {
     text-decoration: none;
 }
 
+.footer {
+    padding: 5px;
+    color:#BBBBBB;
+}
+
 .footer p {
     clear: both;
     margin: 3px;
     text-align: center;
-    color:#BBBBBB;
 }
