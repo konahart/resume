@@ -220,7 +220,7 @@ layout: default
 <h3><a name="pubs" id="pubs"></a>Publications</h3>
 
 <ul class="expList">
-<li class="alwaysShow"><strong>2013</strong>
+<li class="alwaysShow highlight"><strong>2013</strong>
     <ul>
     <li name="lingOfSent">Hart, Laurel, <strong><i><a href="http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses">The Linguistics of Sentiment Analysis</a></i></strong> Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses">http://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1018&context=honorstheses</a>
         <ul>
