@@ -1,11 +1,7 @@
 ---
 layout: default
+title: Laurel Hart's resume
 ---
-<link type="text/css" rel="stylesheet" href="css/collapseList.css">
-<script type="text/javascript" src="js/jquery-1.4.2.min.js">
-</script>
-<script type="text/javascript" src="js/collapseList.js">
-</script>
 <div class="listControl">
     <a id="collapseList">Collapse All</a>
     <a id="highlights">Summary</a>
