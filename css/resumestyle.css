@@ -41,6 +41,10 @@ a {
     color: #59B34C;
 }
 
+a, a:visited, a:hover {
+    text-decoration: none;
+}
+
 hr {
     border: 0;
     height: 0;
@@ -72,10 +76,6 @@ p {
     text-align: left;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-a, a:visited, a:hover {
-    text-decoration: none;
 }
 
 .footer {
