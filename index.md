@@ -21,9 +21,9 @@ title: Laurel Hart's resume
 <h3>Education</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Professional Masters of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
+<li class="alwaysShow highlight"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
     <ul>
-    <li>Completed intensive, 2-year graduate-level program in 1 year</li>
+    <li>Completed intensive, graduate-level program in 1 year</li>
     <li class="highlight">Focused on Natural Language Processing, Machine Learning, and language modeling
         <ul>
 	<li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
