@@ -1,18 +1,18 @@
-Laurel Hart - Computational Linguist
+Laurel Hart - Natural Language Processing Specialist, Computational Linguist
  Email: laurel.elise.hart@gmail.com
  Website: konahart.com
  LinkedIn: http://www.linkedin.com/in/laurelehart
  Github: https://github.com/konahart
 
 Education
-Professional Masters of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
-  - Completed intensive, 2-year graduate-level program in 1 year
+Master of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
+  - Completed intensive, graduate-level program in 1 year
   - Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
     - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
 
 Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
  - Minor in Computer Science
- - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis”
+ - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
 
 Experience
 Research Assistant, University of Washington - CSE, Seattle, WA. 2014
@@ -37,6 +37,19 @@ Library Technology Assistant, Portland State University, Portland, OR. 2011–20
     - 90 Windows PCs, 36 Windows laptops, 4 Macs, 3 Ricoh printers, 3 scanners
 
 Technical skills & selected projects
+Languages:
+ - Python
+ - Java
+ - C++
+Tools:
+ - NLTK
+ - Mallet
+ - Stanford CoreNLP
+ - Lucene
+ - Maven
+ - Git
+ - Bash
+ - LaTeX
 Machine Learning:
  - kNN
  - Decision Trees
@@ -55,18 +68,7 @@ Recent:
  - Training pipeline for a multilingual relation extraction system (Java)
  - Aquaponics web interface design (Human Computer Interaction)
  - Product review sentiment analysis research (Python)
-Languages:
- - Python
- - Java
- - C++
-Additional:
- - NLTK
- - Mallet
- - Stanford CoreNLP
- - Maven
- - Git
- - Bash
- - LaTeX
 
 Publications
-Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
+ 2013: Hart, Laurel, “The Linguistics of Sentiment Analysis” Portland State University, PDX Scholar. 2013. http://pdxscholar.library.pdx.edu/honorstheses/20
+ 2012: Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
