@@ -161,6 +161,69 @@ title: Laurel Hart's resume
 </li>
 </ul>
 
+<h3>Technical skills</h3>
+
+<ul class="expList">
+<li class="alwaysShow highlight"><strong>Programming Languages</strong>
+    <ul>
+    <li>Python
+        <ul>
+        <li>Sentiment analysis on Amazon product review corpus</li>
+        <li>HMM-based Part-of-Speech tagger</li>
+        <li>Word Sense Disambiguation system</li>
+        <li>CKY parser</li>
+        <li>tokenization</li>
+        <li>Context Free Grammars that incorporated features and semantic representations</li>
+        </ul>
+    </li>
+    <li>Java
+        <ul>
+        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        <li>Question Answering System</li>
+        </ul>
+    </li>
+    <li>C++</li>
+    </ul>
+</li>
+
+<li class="alwaysShow highlight"><strong>Tools</strong>
+    <ul>
+    <li>NLTK
+    </li>
+    <li>Mallet</li>
+    <li>Stanford CoreNLP
+        <ul>
+        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        </ul>
+    </li>
+    <li>Lucene
+        <ul>
+        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        <li>Question Answering System</li>
+        </ul>
+    </li>
+    <li>Maven
+        <ul>
+        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        </ul>
+    </li>
+    <li>Git
+        <ul>
+        <li><a href="https://github.com/konahart?tab=repositories">Public repositories</a></li>
+        </ul>
+    </li>
+    <li>Bash</li>
+    <li>LaTeX
+        <ul>
+        <li><a href="resume/resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
+        <li>Fully-featured HPSG syntax trees</li>
+        <li><a href="https://github.com/jbare/channel-viz/tree/gh-pages/Report">Aquaponics web interface design report</a>
+        </ul>
+    </li>
+    </ul>
+</li>
+</ul>
+
 <h3>Selected projects</h3>
 
 <ul class="expList">
@@ -192,33 +255,29 @@ title: Laurel Hart's resume
 
 <li class="alwaysShow highlight"><strong>Recent</strong>
     <ul>
-    <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a> (Java)</li>
-    <li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a> (Human Computer Interaction)</li>
-    <li>Sentiment analysis on Amazon product review corpus (Python)</li>
-    </ul>
-</li>
-</ul>
-
-<h3>Technical skills</h3>
-
-<ul class="expList">
-<li class="alwaysShow highlight"><strong>Programming Languages</strong>
-    <ul>
-    <li>Python</li>
-    <li>Java</li>
-    <li>C++</li>
-    </ul>
-</li>
-
-<li class="alwaysShow highlight"><strong>Tools</strong>
-    <ul>
-    <li>NLTK</li>
-    <li>Mallet</li>
-    <li>Stanford CoreNLP</li>
-    <li>Maven</li>
-    <li>Git</li>
-    <li>Bash</li>
-    <li>LaTeX</li>
+    <li name="relation-extraction"><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a>
+        <ul>
+        <li></li>
+        </ul>
+    </li>
+    <li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a>
+        <ul>
+        <li>Human Computeer Interaction study</li>
+        <li>3 person team</li>
+        <li>D3.js</li>
+        </ul>
+    </li>
+    <li name="AmazonSentiment">Sentiment analysis on Amazon product review corpus (Python)
+        <ul>
+        <li></li>
+        </ul>
+    </li>
+    <li name="QuestionAnswering">Question Answering System
+        <ul>
+        <li>Java</li>
+        <li>3 person team</li>
+        </ul>
+    </li>
     </ul>
 </li>
 </ul>
