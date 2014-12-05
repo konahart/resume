@@ -36,8 +36,8 @@ title: Laurel Hart's resume
             <li>LING 570 &raquo; Shallow Processing Techniques for Natural Language Processing with Fei Xia</li>
             <li>LING 571 &raquo; Deep Processing for Natural Language Processing with Gina Levow</li>
             <li>LING 572 &raquo; Advanced Statistical Methods in Natural Language Processing with Fei Xia</li>
-            <li>LING 573 &raquo; Natural Language Processing Systems and Applications: Question Answering with Gina Levow</li>
-            <li>LING 575 &raquo; Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis) with Gina Levow</li>
+            <li>LING 573 &raquo; <a href="#QuestionAnswering">Natural Language Processing Systems and Applications: Question Answering</a> with Gina Levow</li>
+            <li>LING 575 &raquo; <a href="#AmazonSentiment">Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis)</a> with Gina Levow</li>
             </ul>
         </li>
 	</ul>
@@ -89,7 +89,7 @@ title: Laurel Hart's resume
 <ul class="expList">
 <li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
-    <li>Designed and implemented <a href="https://github.com/konahart/relation-extraction-pipeline">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
+    <li>Designed and implemented <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
     <li>Worked with large corpora
 	<ul>
 	<li>Gigaword English, Spanish, and Chinese corpora: over 9 million documents</li>
@@ -168,7 +168,7 @@ title: Laurel Hart's resume
     <ul>
     <li>Python
         <ul>
-        <li>Sentiment analysis on Amazon product review corpus</li>
+        <li><a href="#AmazonSentiment">Sentiment analysis on Amazon product review corpus</a></li>
         <li>HMM-based Part-of-Speech tagger</li>
         <li>Word Sense Disambiguation system</li>
         <li>CKY parser</li>
@@ -178,8 +178,8 @@ title: Laurel Hart's resume
     </li>
     <li>Java
         <ul>
-        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
-        <li>Question Answering System</li>
+        <li><a href="#relation-extraction">Multilingual relation extraction system</a></li>
+        <li><a href="#QuestionAnswering">Question Answering System</a></li>
         </ul>
     </li>
     <li>C++</li>
@@ -193,18 +193,18 @@ title: Laurel Hart's resume
     <li>Mallet</li>
     <li>Stanford CoreNLP
         <ul>
-        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
         </ul>
     </li>
     <li>Lucene
         <ul>
-        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
         <li>Question Answering System</li>
         </ul>
     </li>
     <li>Maven
         <ul>
-        <li><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a></li>
+        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
         </ul>
     </li>
     <li>Git
@@ -217,7 +217,7 @@ title: Laurel Hart's resume
         <ul>
         <li><a href="resume/resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
         <li>Fully-featured HPSG syntax trees</li>
-        <li><a href="https://github.com/jbare/channel-viz/tree/gh-pages/Report">Aquaponics web interface design report</a>
+        <li><a href="https://github.com/jbare/channel-viz/tree/gh-pages/Report">Aquaponics web interface design report</a></li>
         </ul>
     </li>
     </ul>
@@ -249,33 +249,42 @@ title: Laurel Hart's resume
 
 <li class="alwaysShow highlight"><strong>Current</strong>
     <ul>
-    <li><a href="/promptbot">Promptbot</a>: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python, ongoing)</li>
+    <li class="highlight"><a href="/promptbot">Promptbot</a>: an IRC bot for writers 
+        <ul>
+        <li>Developed in Python, using Twisted framework</li>
+        <li>Used by upwards of 40 users across 2 networks</li>
+        <li>Ongoing</li>
+        </ul>
+    </li>
     </ul>
 </li>
 
 <li class="alwaysShow highlight"><strong>Recent</strong>
     <ul>
-    <li name="relation-extraction"><a href="https://github.com/konahart/relation-extraction-pipeline">Multilingual relation extraction system</a>
+    <li name="relation-extraction" class="highlight"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
         <ul>
-        <li></li>
+        <li>Developed in Java</li>
+        <li>Utes Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.</li>
+        <li>Modular design allows for multilingual tools</li>
+        </ul>
+    </li>
+    <li name="AmazonSentiment" class="highlight">Sentiment analysis on Amazon product review corpus
+        <ul>
+        <li>Developed in Python</li>
+        <li>3 person team</li>
+        </ul>
+    </li>
+    <li name="QuestionAnswering" class="highlight">Question Answering System
+        <ul>
+        <li>Developed in Java</li>
+        <li>3 person team</li>
         </ul>
     </li>
     <li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a>
         <ul>
-        <li>Human Computeer Interaction study</li>
+        <li>Human Computer Interaction study</li>
         <li>3 person team</li>
-        <li>D3.js</li>
-        </ul>
-    </li>
-    <li name="AmazonSentiment">Sentiment analysis on Amazon product review corpus (Python)
-        <ul>
-        <li></li>
-        </ul>
-    </li>
-    <li name="QuestionAnswering">Question Answering System
-        <ul>
-        <li>Java</li>
-        <li>3 person team</li>
+        <li>Demo uses D3.js for data visualization</li>
         </ul>
     </li>
     </ul>
