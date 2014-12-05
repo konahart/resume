@@ -215,7 +215,7 @@ title: Laurel Hart's resume
     <li>Bash</li>
     <li>LaTeX
         <ul>
-        <li><a href="resume/resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
+        <li><a href="/resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
         <li>Fully-featured HPSG syntax trees</li>
         <li><a href="https://github.com/jbare/channel-viz/tree/gh-pages/Report">Aquaponics web interface design report</a></li>
         </ul>
