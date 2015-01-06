@@ -25,19 +25,21 @@ function prepareList() {
     
     highlights
     .addClass('collapsed expanded')
-    
+
     $('.expList a').unbind('click').click(function(){
         var link = $(this).attr('href');
         var fragment = link.split('#')[1];
         if ( fragment ) {
             fragment = $('[name="' + link.substr(1) + '"]');
-            $( fragment ).addClass('expanded');
-            $( fragment ).parents().not('ul').addClass('expanded');
-            $( fragment ).parents().show('medium');
             $( root ).animate({
                 scrollTop: $( fragment ).offset().top
-            }, 500);
-            $( fragment ).children().show('medium');
+            }, 500, function(){
+                $( fragment ).addClass('expanded');
+                $( fragment ).parents().not('ul').addClass('expanded');
+                $( fragment ).parents().show('medium');
+                $( fragment ).children().show('medium');
+                //$( fragment ).effect( 'explode' );
+            });
         } else {
             window.open( link );
         }
