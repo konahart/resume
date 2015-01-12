@@ -270,7 +270,7 @@ title: Laurel Hart's resume
         Training data allows MultiR to create models for relation extraction.
         </li>
         <li>Developed in Java</li>
-        <li class="highlight">Features
+        <li>Features
             <ul>
             <li>Extensive documentation, including walkthrough and demo 
             data</li>
@@ -281,7 +281,7 @@ title: Laurel Hart's resume
             <li>Includes tools to automatically handle compressed corpora</li>
             </ul>
             </li>
-        <li class="highlight">Demo
+        <li>Demo
             <ul>
             <li>Lucene for relation search</li>
             <li class="highlight">Stanford’s CoreNLP package for tokenization,
@@ -315,10 +315,10 @@ title: Laurel Hart's resume
         <li>Modeled on <a href="http://trec.nist.gov/data/qa.html">
         TREC Question Answering Track</a></li>
         <li>Developed in Java by 3 person team</li>
-        <li class="highlight">Features
+        <li>Features
             <ul>
             <li>Lucene for document indexing and search</li>
-            <li class="highlight">Components
+            <li>Components
                 <ul>
                 <li>Query processing and classification</li>
                 <li>Document retrieval</li>
