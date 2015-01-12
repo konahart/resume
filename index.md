@@ -199,7 +199,7 @@ title: Laurel Hart's resume
     <li>Lucene
         <ul>
         <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
-        <li>Question Answering System</li>
+        <li><a href="#QuestionAnswering">Question Answering System</a></li>
         </ul>
     </li>
     <li>Maven
@@ -217,7 +217,8 @@ title: Laurel Hart's resume
         <ul>
         <li><a href="resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
         <li>Fully-featured HPSG syntax trees</li>
-        <li><a href="https://github.com/jbare/channel-viz/tree/gh-pages/Report">Aquaponics web interface design report</a></li>
+        <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">Aquaponics web interface design report</a>: 
+        <a href="https://github.com/konahart/aquaponics-monitor/tree/gh-pages/Report">source files</a></li>
         </ul>
     </li>
     </ul>
@@ -253,7 +254,7 @@ title: Laurel Hart's resume
         <ul>
         <li>Developed in Python, using Twisted framework</li>
         <li>Used by upwards of 40 users across 2 networks</li>
-        <li>Ongoing</li>
+        <li>Ongoing development</li>
         </ul>
     </li>
     </ul>
@@ -263,28 +264,77 @@ title: Laurel Hart's resume
     <ul>
     <li name="relation-extraction" class="highlight"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
         <ul>
+        <li>Goal: Create a pipeline for creating training data for 
+        <a href="http://www.cs.washington.edu/ai/raphaelh/mr/">MultiR</a>. 
+        Training data allows MultiR to create models for relation extraction.
+        </li>
         <li>Developed in Java</li>
-        <li>Utes Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.</li>
-        <li>Modular design allows for multilingual tools</li>
+        <li class="highlight">Features
+            <ul>
+            <li>Extensive documentation, including walkthrough and demo 
+            data</li>
+            <li>Modular design prevents unnecessary repetition of early
+            pipeline steps in order to retest downstream steps</li>
+            <li>Designed to allow for multilingual data, choice of NLP
+            tools</li>
+            <li>Includes tools to automatically handle compressed corpora</li>
+            </ul>
+            </li>
+        <li class="highlight">Demo
+            <ul>
+            <li>Lucene for relation search</li>
+            <li class="highlight">Stanford’s CoreNLP package for tokenization,
+            Named Entity Recognition, parsing, etc.
+                <ul>
+                <li>Optional linguistic analysis output</li>
+                </ul>
+            </li>
+            <li><a href="http://www.freebase.com/">Freebase</a> for grounded 
+            facts (relation tuples) and entity-alias pairings</li>
+            <li><a href="https://catalog.ldc.upenn.edu/LDC2003T05">Gigaword
+            corpora</a> parser takes care of deserializing XGML</li>
+            </ul>
+            </li>
         </ul>
     </li>
-    <li name="AmazonSentiment" class="highlight">Sentiment analysis on Amazon product review corpus
+    <li name="AmazonSentiment" class="highlight">Sentiment Analysis
         <ul>
-        <li>Developed in Python</li>
-        <li>3 person team</li>
+        <li>Goal: Experiment with clustering review authors to improve star-
+        rating prediction performance. Also tested linguistic features such as
+        negation, sentence length, and reading level.</li>
+        <li>Developed in Python by 3 person team</li>
+        <li><a href="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets">Amazon Product Review corpus</a></li>
         </ul>
     </li>
-    <li name="QuestionAnswering" class="highlight">Question Answering System
+    <li name="QuestionAnswering" class="highlight">Question Answering
         <ul>
-        <li>Developed in Java</li>
-        <li>3 person team</li>
+        <li>Goal: Given a fixed document collection and an unknown set of
+        questions (queries), return an answer for each question and the source
+        of the answer (document ID). </li>
+        <li>Modeled on <a href="http://trec.nist.gov/data/qa.html">
+        TREC Question Answering Track</a></li>
+        <li>Developed in Java by 3 person team</li>
+        <li class="highlight">Features
+            <ul>
+            <li>Lucene for document indexing and search</li>
+            <li class="highlight">Components
+                <ul>
+                <li>Query processing and classification</li>
+                <li>Document retrieval</li>
+                <li>Answer candidate extraction and ranking</li>
+                </ul>
+            </li>
+            </ul>
+        </li>
         </ul>
     </li>
-    <li><a href="https://github.com/jbare/channel-viz">Aquaponics web interface design</a>
+    <li><a href="https://github.com/konahart/aquaponics-monitor/">Aquaponics web interface design</a>
         <ul>
-        <li>Human Computer Interaction study</li>
+        <li>Human Computer Interaction study, including Value Sensitive Design
+        principles and methods </li>
         <li>3 person team</li>
-        <li>Demo uses D3.js for data visualization</li>
+        <li><a href="http://konahart.com/aquaponics-monitor/">Demo</a> uses D3.js for data visualization</li>
+        <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">"Developing an Aquaponics Interface" report</a> created with LaTeX</li>
         </ul>
     </li>
     </ul>
