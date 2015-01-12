@@ -78,7 +78,7 @@ title: Laurel Hart's resume
     <li><strong>Algorithms: Design &amp; Analysis, Part I</strong>, <i>Stanford University</i>, 2014
         <ul>
         <li>Taught by Tim Roughgarden</li>
-        <li>Statement of Accomplishment available shortly</li>
+        <li><a href="CourseraAlgs1Statement.pdf">Statement of Accomplishment</a></li>
         </ul>
     </li>
     </ul>
