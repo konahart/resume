@@ -6,6 +6,7 @@ title: Laurel Hart's resume
     <a id="collapseList">Collapse All</a>
     <a id="highlights">Summary</a>
     <a id="expandList">Expand All</a>
+    <a href="resume.pdf">PDF version</a>
 </div>
 
 <h3>Contact Information</h3>
