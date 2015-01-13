@@ -79,6 +79,8 @@ title: Laurel Hart's resume
         <ul>
         <li>Taught by Jeff Leek, Roger D. Peng, and Brian Caffo</li>
         <li><a href="CourseraDataScientistsToolboxStatement.pdf">Statement of Accomplishment</a></li>
+        </ul>
+    </li>
     <li><strong>Algorithms: Design &amp; Analysis, Part I</strong>, <i>Stanford University</i>, 2014
         <ul>
         <li>Taught by Tim Roughgarden</li>
