@@ -75,6 +75,10 @@ title: Laurel Hart's resume
 </li>
 <li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>, ongoing 
     <ul>
+    <li><strong>The Data Scientist's Toolbox</strong>, <i>Johns Hopkins University</i>, 2014
+        <ul>
+        <li>Taught by Jeff Leek, Roger D. Peng, and Brian Caffo</li>
+        <li><a href="CourseraDataScientistsToolboxStatement.pdf">Statement of Accomplishment</a></li>
     <li><strong>Algorithms: Design &amp; Analysis, Part I</strong>, <i>Stanford University</i>, 2014
         <ul>
         <li>Taught by Tim Roughgarden</li>
