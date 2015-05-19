@@ -94,6 +94,13 @@ title: Laurel Hart's resume
 <h3>Experience</h3>
 
 <ul class="expList">
+<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>ToyTalk, Inc.</i>, San Francisco, CA., 2015
+    <ul>
+    <li>Used NLP techniques to improve interaction with users</li>
+    <li>Added features and fixed bugs in in-house content creation tools</li>
+    </ul>
+</li>
+
 <li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
     <li>Designed and implemented <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
@@ -313,7 +320,7 @@ title: Laurel Hart's resume
         <li><a href="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets">Amazon Product Review corpus</a></li>
         </ul>
     </li>
-    <li name="QuestionAnswering" class="highlight">Question Answering
+    <li name="QuestionAnswering" class="highlight"><span class="glow">Question Answering</span>
         <ul>
         <li>Goal: Given a fixed document collection and an unknown set of
         questions (queries), return an answer for each question and the source
@@ -323,7 +330,7 @@ title: Laurel Hart's resume
         <li>Developed in Java by 3 person team</li>
         <li>Features
             <ul>
-            <li>Lucene for document indexing and search</li>
+            <li><span class="glow">Lucene for document indexing and search</span></li>
             <li>Components
                 <ul>
                 <li>Query processing and classification</li>
@@ -353,7 +360,7 @@ title: Laurel Hart's resume
 <ul class="expList">
 <li class="alwaysShow highlight"><strong>2013</strong>
     <ul>
-    <li name="lingOfSent">Hart, Laurel, "<strong><a href="http://pdxscholar.library.pdx.edu/honorstheses/20">The Linguistics of Sentiment Analysis</a></strong>" Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/honorstheses/20">http://pdxscholar.library.pdx.edu/honorstheses/20</a>
+    <li name="lingOfSent"><span class="glow">Hart, Laurel, "<strong><a href="http://pdxscholar.library.pdx.edu/honorstheses/20">The Linguistics of Sentiment Analysis</a></strong>" Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/honorstheses/20">http://pdxscholar.library.pdx.edu/honorstheses/20</a></span>
         <ul>
         <li>Computational linguistics is a field that was founded by linguists, but more recently is the domain of more computer scientists than linguists. Use of data-driven and machine learning methods for computational linguistics applications is now more common than hand­written linguistic rules. In order for a linguist to enter the field, it is essential that he or she be familiar with methods and techniques from computer science.</li>
         <li>The purpose of this paper is two­fold. The first is to serve as a linguist's introduction to concepts from outside of linguistics that are used in computational linguistics. The second purpose is to illustrate the use of linguistic features for a specific task known as sentiment analysis. This task involves determining the sentiment of a piece of text. By way of examining linguistics within sentiment analysis, this paper will begin to gesture at the potential role for linguists in the modern field of computational linguistics as a whole. The goal is to encourage and enable linguists to re-engage with computational linguistics by providing a suitable introductory work.</li>
