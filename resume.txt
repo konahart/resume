@@ -3,6 +3,7 @@ Laurel Hart - Natural Language Processing Specialist, Computational Linguist
  Website: konahart.com
  LinkedIn: http://www.linkedin.com/in/laurelehart
  Github: https://github.com/konahart
+ Twitter: @konahart
 
 Education
 Master of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
@@ -15,6 +16,10 @@ Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR
  - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
 
 Experience
+Artificial Intelligence Engineer, ToyTalk, Inc., San Francisco, CA. 2015
+ - Used NLP techniques to improve interaction with users
+ - Added features and fixed bugs in in-house content creation tools
+
 Research Assistant, University of Washington - CSE, Seattle, WA. 2014
  - Designed and implemented Java training data pipeline for multi-linguistic relation extraction system, MultiR
  - Worked with large corpora:
