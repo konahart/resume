@@ -15,7 +15,6 @@ title: Laurel Hart's resume
 <li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>
 <li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
 <li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/laurelehart">laurelehart</a></li>
-<li>IRC (Freenode) &raquo; <a href="https://freenode.net/">Kona</a></li>
 <li>Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#000000">@</span>konahart</a></li>
 </ul>
 
@@ -30,7 +29,7 @@ title: Laurel Hart's resume
 	<li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
 	<li>Extensive and challenging course load
             <ul>
-            <li>CSE 510 &raquo; Advanced Topics in Human Computer Interaction with Alan Borning</li>
+            <li>CSE 510 &raquo; <a href="#HumanComputerInteraction">Advanced Topics in Human Computer Interaction</a> with Alan Borning</li>
             <li>LING 533 &raquo; Methods of Sociolinguistics (Sociolinguistics II) with Alicia Wassink</li>
             <li>LING 542 &raquo; Semantics I with Yin Li</li>
             <li>LING 566 &raquo; Introduction to Syntax for Computational Linguists with Emily Bender</li>
@@ -94,7 +93,7 @@ title: Laurel Hart's resume
 <h3>Experience</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>ToyTalk, Inc.</i>, San Francisco, CA., 2015
+<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; Current
     <ul>
     <li>Used NLP techniques to improve interaction with users</li>
     <li>Added features and fixed bugs in in-house content creation tools</li>
@@ -262,20 +261,14 @@ title: Laurel Hart's resume
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Current</strong>
+<li class="alwaysShow highlight"><strong>Recent</strong>
     <ul>
     <li class="highlight"><a href="/promptbot">Promptbot</a>: an IRC bot for writers 
         <ul>
         <li>Developed in Python, using Twisted framework</li>
         <li>Used by upwards of 40 users across 2 networks</li>
-        <li>Ongoing development</li>
         </ul>
     </li>
-    </ul>
-</li>
-
-<li class="alwaysShow highlight"><strong>Recent</strong>
-    <ul>
     <li name="relation-extraction" class="highlight"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
         <ul>
         <li>Goal: Create a pipeline for creating training data for 
@@ -342,7 +335,7 @@ title: Laurel Hart's resume
         </li>
         </ul>
     </li>
-    <li><a href="https://github.com/konahart/aquaponics-monitor/">Aquaponics web interface design</a>
+    <li name="HumanComputerInteraction"><a href="https://github.com/konahart/aquaponics-monitor/">Aquaponics web interface design</a>
         <ul>
         <li>Human Computer Interaction study, including Value Sensitive Design
         principles and methods </li>
