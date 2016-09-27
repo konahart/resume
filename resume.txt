@@ -16,7 +16,7 @@ Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR
  - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
 
 Experience
-Artificial Intelligence Engineer, ToyTalk, Inc., San Francisco, CA. 2015
+Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA. 2015-Current
  - Used NLP techniques to improve interaction with users
  - Added features and fixed bugs in in-house content creation tools
 
@@ -67,9 +67,8 @@ Natural Language Processing:
  - CKY parser
  - tokenization
  - Context Free Grammars incorporating features and semantic representations
-Current:
- - Promptbot: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python, ongoing)
-Recent:
+Recent"
+ - Promptbot: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python)
  - Training pipeline for a multilingual relation extraction system (Java)
  - Aquaponics web interface design (Human Computer Interaction)
  - Product review sentiment analysis research (Python)
