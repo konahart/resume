@@ -67,7 +67,7 @@ Natural Language Processing:
  - CKY parser
  - tokenization
  - Context Free Grammars incorporating features and semantic representations
-Recent"
+Recent:
  - Promptbot: an IRC bot for writers; used by upwards of 40 users across 2 networks (Python)
  - Training pipeline for a multilingual relation extraction system (Java)
  - Aquaponics web interface design (Human Computer Interaction)
