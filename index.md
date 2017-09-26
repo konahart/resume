@@ -93,16 +93,24 @@ title: Laurel Hart's resume
 <h3>Experience</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; Current
+<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017
     <ul>
-    <li>Used NLP techniques to improve interaction with users</li>
-    <li>Added features and fixed bugs in in-house content creation tools</li>
+    <li>Worked on <i>PullString Author</i>, a software platform for authoring human-fidelity AI conversation</li>
+    <li>Designed, implemented, and improved Natural Language Processing features
+      <ul><li>Features included negation detection, number conversion, user and author input normalization</li></ul></li>
+    <li>Established large-scale testing to support data-driven decision-making</li>
+    <li>Collaborated with technical and non-technical peers on product features
+      <ul>
+      <li>Expressive word/pattern matching syntax for use by non-technical users</li>
+      <li>Natural Language Processing and Machine Learning -based synonym and phrase suggestion</li>
+      </ul>
+    </li>
     </ul>
 </li>
 
 <li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
-    <li>Designed and implemented <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
+    <li>Conceptualized and created a <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
     <li>Worked with large corpora
 	<ul>
 	<li>Gigaword English, Spanish, and Chinese corpora: over 9 million documents</li>
@@ -113,7 +121,7 @@ title: Laurel Hart's resume
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
+<li class="alwaysShow highlight"><strong>Natural Language Processing Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
     <ul>
     <li class="highlight">Conducted research on Semantic Role Labeling for Modern Standard Arabic
 	<ul>
@@ -189,26 +197,26 @@ title: Laurel Hart's resume
         <li>Context Free Grammars that incorporated features and semantic representations</li>
         </ul>
     </li>
+    <li>C++</li>
     <li>Java
         <ul>
         <li><a href="#relation-extraction">Multilingual relation extraction system</a></li>
         <li><a href="#QuestionAnswering">Question Answering System</a></li>
         </ul>
     </li>
-    <li>C++</li>
     </ul>
 </li>
 
 <li class="alwaysShow highlight"><strong>Tools</strong>
     <ul>
-    <li>NLTK
-    </li>
-    <li>Mallet</li>
+    <li>NLTK</li>
+    <li>spaCy</li>
     <li>Stanford CoreNLP
         <ul>
         <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
         </ul>
     </li>
+    <li>Mallet</li>
     <li>Lucene
         <ul>
         <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
@@ -225,6 +233,7 @@ title: Laurel Hart's resume
         <li><a href="https://github.com/konahart?tab=repositories">Public repositories</a></li>
         </ul>
     </li>
+    <li>Mercurial</li>
     <li>Bash</li>
     <li>LaTeX
         <ul>
