@@ -16,12 +16,17 @@ Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR
  - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
 
 Experience
-Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA. 2015-Current
- - Used NLP techniques to improve interaction with users
- - Added features and fixed bugs in in-house content creation tools
+Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA. 2015-2017
+ - Worked on "PullString Author," a software platform for authoring human-fidelity AI conversation
+ - Designed, implemented, and improved Natural Language Processing features
+    - Features included negation detection, number conversion, user and author input normalization
+ - Established large-scale testing to support data-driven decision-making
+ - Collaborated with technical and non-technical peers on product features
+    - Expressive word/pattern matching syntax for use by non-technical users
+    - Natural Language Processing and Machine Learning -based synonym and phrase suggestion
 
 Research Assistant, University of Washington - CSE, Seattle, WA. 2014
- - Designed and implemented Java training data pipeline for multi-linguistic relation extraction system, MultiR
+ - Conceptualized and created a Java training data pipeline for multi-linguistic relation extraction system, MultiR
  - Worked with large corpora:
    - Gigaword English, Spanish, and Chinese corpora: over 9 million documents
    - Freebase: currently over 2 billion facts
@@ -44,15 +49,17 @@ Library Technology Assistant, Portland State University, Portland, OR. 2011–20
 Technical skills & selected projects
 Languages:
  - Python
- - Java
  - C++
+ - Java
 Tools:
  - NLTK
- - Mallet
+ - spaCy
  - Stanford CoreNLP
+ - Mallet
  - Lucene
  - Maven
  - Git
+ - Mercurial
  - Bash
  - LaTeX
 Machine Learning:
