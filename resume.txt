@@ -5,17 +5,15 @@ Laurel Hart - Natural Language Processing Specialist, Computational Linguist
  Github: https://github.com/konahart
  Twitter: @konahart
 
-Education
-Master of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
-  - Completed intensive, graduate-level program in 1 year
-  - Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
-    - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
-
-Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
- - Minor in Computer Science
- - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
-
 Experience
+Natural Language Processing Specialist, Woebot Labs, Inc., San Francisco, CA. 2018-Present
+ - Improved Natural Language Understanding in the Woebot chatbot
+    - Created a more naturalistic conversation experience for users
+ - Applied expertise in chatbot conversational design to existing product
+    - Identified common pitfalls and suggested solutions
+    - Conducted analysis of how natural language understanding issues affect retention during app onboarding
+ - Assisted in creation of new chatbot authoring environment for use by non-technical users
+
 Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA. 2015-2017
  - Worked on "PullString Author," a software platform for authoring human-fidelity AI conversation
  - Designed, implemented, and improved Natural Language Processing features
@@ -26,25 +24,21 @@ Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San
     - Natural Language Processing and Machine Learning -based synonym and phrase suggestion
 
 Research Assistant, University of Washington - CSE, Seattle, WA. 2014
- - Conceptualized and created a Java training data pipeline for multi-linguistic relation extraction system, MultiR
+ - Created a Java training data pipeline for multi-linguistic relation extraction system, MultiR
  - Worked with large corpora:
    - Gigaword English, Spanish, and Chinese corpora: over 9 million documents
    - Freebase: currently over 2 billion facts
  - Utilized Stanford’s CoreNLP package for tokenization, Named Entity Recognition, parsing, etc.
 
-Natural Language Processing Intern, BCL Technologies, San Jose, CA.  Winter and Summer 2012
- - Conducted research on Semantic Role Labeling for Modern Standard Arabic
-    - Authored demonstration paper published in Proceedings of COLING 2012 (see Publications)
-    - Created annotated linguistic data
-- Wrote grant proposals, company awarded $80,000 SBIR toward Multilingual Author Identification
-- Other research areas: text summarization, spoken language identification, automated financial data extraction
+Education
+Master of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
+  - Completed intensive, graduate-level program in 1 year
+  - Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
+    - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
 
-Library Technology Assistant, Portland State University, Portland, OR. 2011–2013
-- Team Lead of five-person student IT team March, 2013 — June, 2013
-    - Coordinated student workers to ensured lab support coverage
-    - Created training materials for new hires and oversaw training
-- Provided support for staff and student technologies at the University’s Millar Library
-    - 90 Windows PCs, 36 Windows laptops, 4 Macs, 3 Ricoh printers, 3 scanners
+Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
+ - Minor in Computer Science
+ - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
 
 Technical skills & selected projects
 Languages:
@@ -52,6 +46,8 @@ Languages:
  - C++
  - Java
 Tools:
+ - TensorFlow
+ - FastText
  - NLTK
  - spaCy
  - Stanford CoreNLP
