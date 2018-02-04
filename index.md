@@ -93,7 +93,20 @@ title: Laurel Hart's resume
 <h3>Experience</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017
+<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018 &mdash; Present
+    <ul>
+    <li class="highlight">Improved Natural Language Understanding in the Woebot chatbot
+      <ul><li>Created a more naturalistic conversation experience for users</li></ul></li>
+    <li class="highlight">Applied expertise in chatbot conversational design to existing product
+      <ul>
+      <li>Identified common pitfalls and suggested solutions</li>
+      <li>Conducted analysis of how natural language understanding issues affect retention during app onboarding</li>
+      </ul></li>
+    <li>Assisted in creation of new chatbot authoring environment for use by non-technical users</li>
+    </ul>
+</li>
+
+<li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017
     <ul>
     <li>Worked on <i>PullString Author</i>, a software platform for authoring human-fidelity AI conversation</li>
     <li>Designed, implemented, and improved Natural Language Processing features
@@ -110,7 +123,7 @@ title: Laurel Hart's resume
 
 <li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
-    <li>Conceptualized and created a <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
+    <li>Created a <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
     <li>Worked with large corpora
 	<ul>
 	<li>Gigaword English, Spanish, and Chinese corpora: over 9 million documents</li>
@@ -121,7 +134,7 @@ title: Laurel Hart's resume
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Natural Language Processing Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
+<li class="alwaysShow"><strong>Natural Language Processing Intern</strong>, <i>BCL Technologies</i>, San Jose, CA., Winter and Summer 2012
     <ul>
     <li class="highlight">Conducted research on Semantic Role Labeling for Modern Standard Arabic
 	<ul>
@@ -189,6 +202,7 @@ title: Laurel Hart's resume
     <ul>
     <li>Python
         <ul>
+        <li><a href="#PullString"><i>PullString Author</i></a>, a chatbot authoring environment</li>
         <li><a href="#AmazonSentiment">Sentiment analysis on Amazon product review corpus</a></li>
         <li>HMM-based Part-of-Speech tagger</li>
         <li>Word Sense Disambiguation system</li>
@@ -197,7 +211,9 @@ title: Laurel Hart's resume
         <li>Context Free Grammars that incorporated features and semantic representations</li>
         </ul>
     </li>
-    <li>C++</li>
+    <li>C++
+        <ul><li><a href="#PullString">PullString</a> intelligence/Natural Language logic</li></ul>
+    </li>
     <li>Java
         <ul>
         <li><a href="#relation-extraction">Multilingual relation extraction system</a></li>
@@ -209,6 +225,8 @@ title: Laurel Hart's resume
 
 <li class="alwaysShow highlight"><strong>Tools</strong>
     <ul>
+    <li>TensorFlow</li>
+    <li>FastText</li>
     <li>NLTK</li>
     <li>spaCy</li>
     <li>Stanford CoreNLP
@@ -322,7 +340,7 @@ title: Laurel Hart's resume
         <li><a href="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets">Amazon Product Review corpus</a></li>
         </ul>
     </li>
-    <li name="QuestionAnswering" class="highlight"><span class="glow">Question Answering</span>
+    <li name="QuestionAnswering" class="highlight">Question Answering
         <ul>
         <li>Goal: Given a fixed document collection and an unknown set of
         questions (queries), return an answer for each question and the source
@@ -332,7 +350,7 @@ title: Laurel Hart's resume
         <li>Developed in Java by 3 person team</li>
         <li>Features
             <ul>
-            <li><span class="glow">Lucene for document indexing and search</span></li>
+            <li>Lucene for document indexing and search</li>
             <li>Components
                 <ul>
                 <li>Query processing and classification</li>
@@ -362,7 +380,7 @@ title: Laurel Hart's resume
 <ul class="expList">
 <li class="alwaysShow highlight"><strong>2013</strong>
     <ul>
-    <li name="lingOfSent"><span class="glow">Hart, Laurel, "<strong><a href="http://pdxscholar.library.pdx.edu/honorstheses/20">The Linguistics of Sentiment Analysis</a></strong>" Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/honorstheses/20">http://pdxscholar.library.pdx.edu/honorstheses/20</a></span>
+    <li name="lingOfSent">Hart, Laurel, <strong><a href="http://pdxscholar.library.pdx.edu/honorstheses/20">"The Linguistics of Sentiment Analysis"</a></strong> Portland State University <i>PDX Scholar</i>. 2013. <a href="http://pdxscholar.library.pdx.edu/honorstheses/20">http://pdxscholar.library.pdx.edu/honorstheses/20</a>
         <ul>
         <li>Computational linguistics is a field that was founded by linguists, but more recently is the domain of more computer scientists than linguists. Use of data-driven and machine learning methods for computational linguistics applications is now more common than hand­written linguistic rules. In order for a linguist to enter the field, it is essential that he or she be familiar with methods and techniques from computer science.</li>
         <li>The purpose of this paper is two­fold. The first is to serve as a linguist's introduction to concepts from outside of linguistics that are used in computational linguistics. The second purpose is to illustrate the use of linguistic features for a specific task known as sentiment analysis. This task involves determining the sentiment of a piece of text. By way of examining linguistics within sentiment analysis, this paper will begin to gesture at the potential role for linguists in the modern field of computational linguistics as a whole. The goal is to encourage and enable linguists to re-engage with computational linguistics by providing a suitable introductory work.</li>
