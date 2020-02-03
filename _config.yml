@@ -12,7 +12,7 @@ permalink:   /:year/:month/:title
 
 title:       Laurel Goodhart's Resume
 description: Resume
-base:        http://konahart.github.io/resume
+base:        https://konahart.com/resume
 author:      Laurel Kona Goodhart
 email:       hi@konahart.com
 
