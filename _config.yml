@@ -10,10 +10,10 @@ highlighter: rouge
 markdown:    kramdown
 permalink:   /:year/:month/:title
 
-title:       Laurel Hart's Resume
+title:       Laurel Goodhart's Resume
 description: Resume
 base:        http://konahart.github.io/resume
-author:      Laurel Hart
-email:       laurel.elise.hart@gmail.com
+author:      Laurel Kona Goodhart
+email:       hi@konahart.com
 
 exclude:     [drafts, _site, scripts]

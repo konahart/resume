@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Laurel Hart's resume
+title: Laurel Kona Goodhart's resume
 ---
 <div class="listControl">
     <a id="collapseList">Collapse All</a>
@@ -12,7 +12,7 @@ title: Laurel Hart's resume
 <h3>Contact Information</h3>
 
 <ul>
-<li>Email &raquo; <span style="color:#59B34C">laurel.elise.hart</span>&#64;gmail&#46;com</li>
+<li>Email &raquo; hi&#64;<span style="color:#59B34C">konahart</span>&#46;com</li>
 <li>Github &raquo; <a href="http://github.com/konahart">konahart</a></li>
 <li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/laurelehart">laurelehart</a></li>
 <li>Twitter &raquo; <a href="https://twitter.com/konahart"><span style="color:#000000">@</span>konahart</a></li>
