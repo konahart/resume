@@ -249,6 +249,12 @@ title: Laurel Kona Goodhart's resume
         <li><a href="#QuestionAnswering">Question Answering System</a></li>
         </ul>
     </li>
+    <li>Previous experience with:
+        <ul>
+        <li>C#</li>
+        <li>Swift</li>
+        </ul>
+    </li>
     </ul>
 </li>
 
