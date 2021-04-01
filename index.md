@@ -2,6 +2,7 @@
 layout: default
 title: Laurel Kona Goodhart's resume
 ---
+
 <div class="listControl">
     <a id="collapseList">Collapse All</a>
     <a id="highlights">Summary</a>
@@ -272,7 +273,7 @@ title: Laurel Kona Goodhart's resume
         <ul>
         <li><a href="resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
         <li>Fully-featured HPSG syntax trees</li>
-        <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">Aquaponics web interface design report</a>: 
+        <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">Aquaponics web interface design report</a>:
         <a href="https://github.com/konahart/aquaponics-monitor/tree/gh-pages/Report">source files</a></li>
         </ul>
     </li>
@@ -305,7 +306,7 @@ title: Laurel Kona Goodhart's resume
 
 <li class="alwaysShow highlight"><strong>Recent</strong>
     <ul>
-    <li class="highlight"><a href="/promptbot">Promptbot</a>: an IRC bot for writers 
+    <li class="highlight"><a href="/promptbot">Promptbot</a>: an IRC bot for writers
         <ul>
         <li>Developed in Python, using Twisted framework</li>
         <li>Used by upwards of 40 users across 2 networks</li>
@@ -313,14 +314,14 @@ title: Laurel Kona Goodhart's resume
     </li>
     <li name="relation-extraction" class="highlight"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
         <ul>
-        <li>Goal: Create a pipeline for creating training data for 
-        <a href="http://www.cs.washington.edu/ai/raphaelh/mr/">MultiR</a>. 
+        <li>Goal: Create a pipeline for creating training data for
+        <a href="http://www.cs.washington.edu/ai/raphaelh/mr/">MultiR</a>.
         Training data allows MultiR to create models for relation extraction.
         </li>
         <li>Developed in Java</li>
         <li>Features
             <ul>
-            <li>Extensive documentation, including walkthrough and demo 
+            <li>Extensive documentation, including walkthrough and demo
             data</li>
             <li>Modular design prevents unnecessary repetition of early
             pipeline steps in order to retest downstream steps</li>
@@ -338,7 +339,7 @@ title: Laurel Kona Goodhart's resume
                 <li>Optional linguistic analysis output</li>
                 </ul>
             </li>
-            <li><a href="http://www.freebase.com/">Freebase</a> for grounded 
+            <li><a href="http://www.freebase.com/">Freebase</a> for grounded
             facts (relation tuples) and entity-alias pairings</li>
             <li><a href="https://catalog.ldc.upenn.edu/LDC2003T05">Gigaword
             corpora</a> parser takes care of deserializing XGML</li>
@@ -403,7 +404,7 @@ title: Laurel Kona Goodhart's resume
         </li>
     </ul>
 </li>
-    
+
 <li class="alwaysShow highlight"><strong>2012</strong>
     <ul>
     <li name="arabicSRL">Hart, Laurel, Hassan Alam and Aman Kumar, <strong><a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">"Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods"</a></strong> <i>Proceedings of COLING 2012</i>. December, 2012: 207—14. <a href="http://aclweb.org/anthology//C/C12/C12-3026.pdf">http://aclweb.org/anthology//C/C12/C12-3026.pdf</a>
