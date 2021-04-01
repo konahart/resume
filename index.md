@@ -143,7 +143,7 @@ title: Laurel Kona Goodhart's resume
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
+<li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
     <ul>
     <li>Created a <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
     <li>Worked with large corpora
