@@ -72,8 +72,23 @@ title: Laurel Kona Goodhart's resume
     </li>
     </ul>
 </li>
-<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>, ongoing 
+<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>, ongoing
     <ul>
+    <li><strong>Deep Learning Specialization</strong>, <i>DeepLearning.AI</i>, 2018
+        <ul>
+        <li>Taught by Andrew Ng, Kian Katanforoosh, and Younes Bensouda Mourri</li>
+        <li><a href="CourseraDeepLearningCertificate.pdf">Specialization Certificate</a></li>
+        <li>5 courses:
+            <ul>
+            <li>Neural Networks and Deep Learning</li>
+            <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</li>
+            <li>Structuring Machine Learning Projects</li>
+            <li>Convolutional Neural Networks</li>
+            <li>Sequence Models</li>
+            </ul>
+        </li>
+        </ul>
+    </li>
     <li><strong>The Data Scientist's Toolbox</strong>, <i>Johns Hopkins University</i>, 2014
         <ul>
         <li>Taught by Jeff Leek, Roger D. Peng, and Brian Caffo</li>
