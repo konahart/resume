@@ -109,7 +109,13 @@ title: Laurel Kona Goodhart's resume
 <h3>Experience</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018 &mdash; Present
+
+<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Labs, Inc</i>, San Francisco, CA. / remote, 2019 &mdash; 2021
+    <ul>
+    </ul>
+</li>
+
+<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018
     <ul>
     <li class="highlight">Improved Natural Language Understanding in the Woebot chatbot
       <ul><li>Created a more naturalistic conversation experience for users</li></ul></li>
