@@ -110,8 +110,16 @@ title: Laurel Kona Goodhart's resume
 
 <ul class="expList">
 
-<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Labs, Inc</i>, San Francisco, CA. / remote, 2019 &mdash; 2021
+<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Labs, Inc.</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021
     <ul>
+    <li class="highlight">Brought an original character to life with innovative robotics and NLP software
+        <ul>
+        <li class="highlight">Led architecture design for state-of-the-art computer conversation at scale</li>
+        <li class="highlight">Led design and implementation of internal webapp for content authoring</li>
+        </ul>
+    </li>
+    <li>Created a fantastic digital companion in a sprite-based iOS app</li>
+    <li>Rapidly prototyped 3D mobile games in Unity</li>
     </ul>
 </li>
 
