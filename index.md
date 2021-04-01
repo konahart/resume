@@ -247,40 +247,47 @@ title: Laurel Kona Goodhart's resume
 
 <li class="alwaysShow highlight"><strong>Tools</strong>
     <ul>
-    <li>TensorFlow</li>
-    <li>FastText</li>
-    <li>NLTK</li>
-    <li>spaCy</li>
-    <li>Stanford CoreNLP
-        <ul>
-        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
-        </ul>
-    </li>
-    <li>Mallet</li>
-    <li>Lucene
-        <ul>
-        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
-        <li><a href="#QuestionAnswering">Question Answering System</a></li>
-        </ul>
-    </li>
-    <li>Maven
-        <ul>
-        <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
-        </ul>
-    </li>
-    <li>Git
+    <li>Git and GitHub
         <ul>
         <li><a href="https://github.com/konahart?tab=repositories">Public repositories</a></li>
         </ul>
     </li>
-    <li>Mercurial</li>
-    <li>Bash</li>
-    <li>LaTeX
+    <li>VS Code</li>
+    <li>Previous experience with:
         <ul>
-        <li><a href="resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
-        <li>Fully-featured HPSG syntax trees</li>
-        <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">Aquaponics web interface design report</a>:
-        <a href="https://github.com/konahart/aquaponics-monitor/tree/gh-pages/Report">source files</a></li>
+        <li>Unity</li>
+        <li>XCode</li>
+        <li>TensorFlow</li>
+        <li>FastText</li>
+        <li>NLTK</li>
+        <li>spaCy</li>
+        <li>Stanford CoreNLP
+            <ul>
+            <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
+            </ul>
+        </li>
+        <li>Mallet</li>
+        <li>Lucene
+            <ul>
+            <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
+            <li><a href="#QuestionAnswering">Question Answering System</a></li>
+            </ul>
+        </li>
+        <li>Maven
+            <ul>
+            <li><a href="#relation-extraction">Training data pipeline for multilingual relation extraction system</a></li>
+            </ul>
+        </li>
+        <li>Mercurial</li>
+        <li>Bash</li>
+        <li>LaTeX
+            <ul>
+            <li><a href="resume.pdf">Resume</a>: <a href="https://github.com/konahart/resume/blob/master/resume.tex">.tex source</a></li>
+            <li>Fully-featured HPSG syntax trees</li>
+            <li><a href="http://konahart.com/aquaponics-monitor/Report/Final%20Project%20Report.pdf">Aquaponics web interface design report</a>:
+            <a href="https://github.com/konahart/aquaponics-monitor/tree/gh-pages/Report">source files</a></li>
+            </ul>
+        </li>
         </ul>
     </li>
     </ul>
