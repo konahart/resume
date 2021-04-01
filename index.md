@@ -347,15 +347,23 @@ title: Laurel Kona Goodhart's resume
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Recent</strong>
+<li class="alwaysShow highlight"><strong>Other projects</strong>
     <ul>
-    <li class="highlight"><a href="/promptbot">Promptbot</a>: an IRC bot for writers
+    <li class="highlight"><a href="https://twitter.com/generativiTea">generativiTea</a>: an art bot that tweets about small batch, RNN-tisanal teas
+        <ul>
+        <li>Used RNN to generate tea names and tasting notes (Tensorflow-char-rnn, Python)</li>
+        <li>Classified color of generated tea names (Scikit-learn, Python)</li>
+        <li>Hand-crafted a grammar to describe the generated tea (Tracery and corpora, Python)</li>
+        <li>Delivered a talk about it at Supporting Women in Information Technology & Computing in Hawaii - University of Hawaiʻi at Mānoa (SWITCH - UHM) in February 2020</li>
+        </ul>
+    </li>
+    <li><a href="/promptbot">Promptbot</a>: an IRC bot for writers
         <ul>
         <li>Developed in Python, using Twisted framework</li>
         <li>Used by upwards of 40 users across 2 networks</li>
         </ul>
     </li>
-    <li name="relation-extraction" class="highlight"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
+    <li name="relation-extraction"><a href="https://github.com/konahart/relation-extraction-pipeline">Training data pipeline for multilingual relation extraction system</a>
         <ul>
         <li>Goal: Create a pipeline for creating training data for
         <a href="http://www.cs.washington.edu/ai/raphaelh/mr/">MultiR</a>.
@@ -376,7 +384,7 @@ title: Laurel Kona Goodhart's resume
         <li>Demo
             <ul>
             <li>Lucene for relation search</li>
-            <li class="highlight">Stanford’s CoreNLP package for tokenization,
+            <li>Stanford’s CoreNLP package for tokenization,
             Named Entity Recognition, parsing, etc.
                 <ul>
                 <li>Optional linguistic analysis output</li>
@@ -390,7 +398,7 @@ title: Laurel Kona Goodhart's resume
             </li>
         </ul>
     </li>
-    <li name="AmazonSentiment" class="highlight">Sentiment Analysis
+    <li name="AmazonSentiment">Sentiment Analysis
         <ul>
         <li>Goal: Experiment with clustering review authors to improve star-
         rating prediction performance. Also tested linguistic features such as
@@ -399,7 +407,7 @@ title: Laurel Kona Goodhart's resume
         <li><a href="http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets">Amazon Product Review corpus</a></li>
         </ul>
     </li>
-    <li name="QuestionAnswering" class="highlight">Question Answering
+    <li name="QuestionAnswering">Question Answering
         <ul>
         <li>Goal: Given a fixed document collection and an unknown set of
         questions (queries), return an answer for each question and the source
