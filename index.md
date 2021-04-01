@@ -292,6 +292,12 @@ title: Laurel Kona Goodhart's resume
 <ul class="expList">
 <li class="alwaysShow highlight"><strong>Machine Learning</strong>
     <ul>
+    <li>Deep learning
+        <ul>
+        <li>RNN</li>
+        <li>CNN</li>
+        </ul>
+    </li>
     <li>kNN</li>
     <li>Decision Trees</li>
     <li>Naïve Bayes</li>
