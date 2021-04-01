@@ -233,6 +233,13 @@ title: Laurel Kona Goodhart's resume
         <li>Context Free Grammars that incorporated features and semantic representations</li>
         </ul>
     </li>
+    <li>Javascript
+        <ul>
+        <li>Node</li>
+        <li>React</li>
+        <li>Chakra UI</li>
+        </ul>
+    </li>
     <li>C++
         <ul><li><a href="#PullString">PullString</a> intelligence/Natural Language logic</li></ul>
     </li>
