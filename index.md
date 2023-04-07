@@ -109,45 +109,74 @@ title: Laurel Kona Goodhart's resume
 
 <ul class="expList">
 
-<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Technologies</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021
-    <ul>
-    <li class="highlight">Brought an original character to life with innovative robotics and NLP software
+<li class="alwaysShow highlight"><strong>Principal Computational Linguist</strong>, <i>Walt Disney Engineering</i>, remote from Portland, OR., 2021 &mdash; 2023 <i>(current)</i>
+    <ul><li class="alwaysShow highlight">D3-O9, interactive droid character aboard the Star Wars Galactic Starcruiser (Walt Disney World)
         <ul>
-        <li class="highlight">Led architecture design for state-of-the-art computer conversation at scale</li>
-        <li class="highlight">Led design and implementation of internal webapp for content authoring</li>
+        <li class="highlight">Owned Natural Language Understanding (NLU) pipeline
+            <ul>
+            <li class="highlight">Trained, evaluated, and iterated models for conversational agent</li>
+            <li class="highlight">Identified trends in user testing to better tailor character content</li>
+            <li class="highlight">Delivered and maintained production-ready NLU systems</li>
+            </ul>
+        </li>
+        <li class="highlight">Worked closely with Conversation Experience Designers to guarantee a “Disney magic” experience</li>
+            <ul>
+            <li class="highlight">Used insight into content-creation process to translate between creative and technical teams</li>
+            <li class="highlight">Helped design next generation of experience-authoring tools</li>
+            </ul>
+        <li>Worked with in-house researchers to define conversational quality metrics</li>
         </ul>
-    </li>
-    <li>Created a fantastic digital companion in a sprite-based iOS app</li>
-    <li>Rapidly prototyped 3D mobile games in Unity</li>
-    </ul>
+    </li></ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018
-    <ul>
-    <li class="highlight">Improved Natural Language Understanding in the Woebot chatbot
-      <ul><li>Created a more naturalistic conversation experience for users</li></ul></li>
-    <li class="highlight">Applied expertise in chatbot conversational design to existing product
-      <ul>
-      <li>Identified common pitfalls and suggested solutions</li>
-      <li>Conducted analysis of how natural language understanding issues affect retention during app onboarding</li>
-      </ul></li>
-    <li>Assisted in creation of new chatbot authoring environment for use by non-technical users</li>
-    </ul>
+<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Technologies</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021<br />
+    <ul><li class="alwaysShow highlight">Long-term companion robot + app-based character for kids
+        <ul>
+        <li class="highlight">Combined innovative robotics and Natural Language Processing (NLP) techniques
+            <ul>
+            <li class="highlight">Led architecture design for state-of-the-art computer conversation at scale</li>
+            <li class="highlight">Designed and implemented internal webapp for content authoring</li>
+            </ul>
+        </li>
+        <li>Created a fantastical digital companion in a sprite-based iOS app</li>
+        <li>Conducted rapid prototyping of 3D mobile games in Unity</li>
+        </ul>
+    </li></ul>
 </li>
 
-<li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017
-    <ul>
-    <li>Worked on <i>PullString Author</i>, a software platform for authoring human-fidelity AI conversation</li>
-    <li>Designed, implemented, and improved Natural Language Processing features
-      <ul><li>Features included negation detection, number conversion, user and author input normalization</li></ul></li>
-    <li>Established large-scale testing to support data-driven decision-making</li>
-    <li>Collaborated with technical and non-technical peers on product features
-      <ul>
-      <li>Expressive word/pattern matching syntax for use by non-technical users</li>
-      <li>Natural Language Processing and Machine Learning -based synonym and phrase suggestion</li>
-      </ul>
-    </li>
-    </ul>
+<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018<br />
+    <ul><li class="alwaysShow highlight">Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques
+        <ul>
+        <li class="highlight">Created a novel application of Natural Language Understanding (NLU) to therapeutic exercises
+        <ul>
+        <li>Trained, evaluated, and deployed language models for activity and mood classification</li>
+        <li>Established a data collection and annotation strategy</li>
+        </ul>
+        </li>
+        <li class="highlight">Applied expertise in chatbot conversational design to existing product
+        <ul>
+        <li>Identified common pitfalls, suggested solutions, and implemented them</li>
+        <li>onducted analysis of effects of NLU issues on retention during app onboarding</li>
+        </ul></li>
+        <li>Assisted in design of new chatbot authoring environment for use by non-technical users</li>
+        </ul>
+    </li></ul>
+</li>
+
+<li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017<br />
+    <ul><li class="alwaysShow highlight"><i>PullString Author</i>, a software platform for authoring human-fidelity AI conversation; various conversational apps and toys, including <i>Hello Barbie</i>, <i>Doctor Strange</i>, <i>Thomas & Friends Talk to You</i>
+        <ul>
+        <li>Designed, implemented, and improved Natural Language Processing (NLP) features
+        <ul><li>Including negation detection, number conversion, user and author input normalization</li></ul></li>
+        <li>Established large-scale testing to support data-driven decision-making</li>
+        <li>Collaborated with technical and non-technical peers on product features
+        <ul>
+        <li>Expressive word/pattern matching syntax for use by non-technical users</li>
+        <li>NLP and Machine Learning -based synonym and phrase suggestion</li>
+        </ul>
+        </li>
+        </ul>
+    </li></ul>
 </li>
 
 <li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
