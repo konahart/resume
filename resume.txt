@@ -5,34 +5,49 @@ Laurel Kona Goodhart - Software Engineer, Natural Language Processing Specialist
  Github: https://github.com/konahart
  Twitter: @konahart
 
+Character-driven AI experiences, Natural Language Understanding (NLU), and Natural Language Processing (NLP)
+
 Experience
-Senior Software Engineer, Primed Technologies, San Francisco, CA / remote 2019-2021
- - Brought an original character to life with innovative robotics and NLP software
+Principal Computational Linguist, Walt Disney Engineering, remote, 2021-2023
+D3-O9, interactive droid character aboard the Star Wars Galactic Starcruiser (Walt Disney World)
+  - Owned Natural Language Understanding (NLU) pipeline
+    - Trained, evaluated, and iterated models for conversational agent
+    - Identified trends in user testing to better tailor character content
+    - Delivered and maintained production-ready NLU systems
+  - Worked closely with Conversation Experience Designers to guarantee a "Disney magic" experience
+    - Used insight into content-creation process to translate between creative and technical teams
+    - Helped design next generation of experience-authoring tools
+  - Worked with in-house researchers to define conversational quality metrics
+
+Senior Software Engineer, Primed Technologies, San Francisco, CA / remote, 2019-2021
+Long-term companion robot + app-based character for kids
+  - Combined innovative robotics and Natural Language Processing (NLP) techniques
     - Led architecture design for state-of-the-art computer conversation at scale
-    - Led design and implementation of internal webapp for content authoring
- - Created a fantastic digital companion in a sprite-based iOS app
- - Rapidly prototyped 3D mobile games in Unity
+    - Design and implementated internal webapp for content authoring
+  - Created a fantastical digital companion in a sprite-based iOS app
+  - Conducted rapid prototyping of 3D mobile games in Unity
 
-Natural Language Processing Specialist, Woebot Labs, Inc., San Francisco, CA. 2018
- - Improved Natural Language Understanding in the Woebot chatbot
-    - Created a more naturalistic conversation experience for users
- - Applied expertise in chatbot conversational design to existing product
-    - Identified common pitfalls and suggested solutions
-    - Conducted analysis of how natural language understanding issues affect retention during app onboarding
- - Assisted in creation of new chatbot authoring environment for use by non-technical users
+Natural Language Processing Specialist, Woebot Labs, Inc., San Francisco, CA, 2018
+Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques
+  - Created a novel application of Natural Language Understanding (NLU) to therapeutic exercises
+    - Trained, evaluated, and deployed language models for activity and mood classification
+    - Established a data collection and annotation strategy
+  - Applied expertise in chatbot conversational design to existing product
+    - Identified common pitfalls, suggested solutions, and implemented them
+    - Conducted analysis of effects of NLU issues on retention during app onboarding
+  - Assisted in design of new chatbot authoring environment for use by non-technical users
 
-Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA. 2015-2017
- - Worked on "PullString Author," a software platform for authoring human-fidelity AI conversation
- - Designed, implemented, and improved Natural Language Processing features
-    - Features included negation detection, number conversion, user and author input normalization
- - Established large-scale testing to support data-driven decision-making
- - Collaborated with technical and non-technical peers on product features
+Artificial Intelligence Engineer, PullString, Inc. (formerly ToyTalk, Inc.), San Francisco, CA, 2015-2017
+PullString Author, a software platform for authoring human-fidelity AI conversation; various conversational apps and toys, including Hello Barbie, Doctor Strange, Thomas & Friends Talk to You
+  - Designed, implemented, and improved Natural Language Processing (NLP) features
+    - Including negation detection, number conversion, user and author input normalization
+  - Established large-scale testing to support data-driven decision-making
+  - Collaborated with technical and non-technical peers on product features
     - Expressive word/pattern matching syntax for use by non-technical users
-    - Natural Language Processing and Machine Learning -based synonym and phrase suggestion
+    - NPL and Machine Learning -based synonym and phrase suggestion
 
 Education
 Deep Learning Specialization, DeepLearning.AI, Coursera 2018
-  - Self-motivated continuing education
   - 5 courses:
     - Neural Networks and Deep Learning
     - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -40,46 +55,11 @@ Deep Learning Specialization, DeepLearning.AI, Coursera 2018
     - Convolutional Neural Networks
     - Sequence Models
 
-Master of Science in Computational Linguistics, University of Washington, Seattle, WA.  2013—2014
+Master of Science in Computational Linguistics, University of Washington, Seattle, WA  2013—2014
   - Completed intensive, graduate-level program in 1 year
   - Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
     - Specific topics include: Machine Translation, Information Retrieval, and Question Answering
 
-Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR. 2009–2013
+Bachelor of Arts in Applied Linguistics, Portland State University, Portland, OR 2009–2013
  - Minor in Computer Science
  - Honors College, undergraduate thesis: “The Linguistics of Sentiment Analysis” (see Publications)
-
-Technical skills & selected projects
-Languages:
- - Python
- - Javascript
- - C++
- - Java
-Tools:
- - Git
- - Github
- - Jupyter
- - TensorFlow
- - FastText
- - NLTK
- - Stanford CoreNLP
- - Bash
- - LaTeX
-Machine Learning:
- - RNNs
- - CNNs
- - kNN
- - Decision Trees
- - Naive Bayes
- - MaxEnt
- - SVM
-Natural Language Processing:
- - HMM-based Part-of-Speech tagger
- - Word Sense Disambiguation system
- - CKY parser
- - tokenization
- - Context Free Grammars incorporating features and semantic representations
-
-Publications
- 2013: Hart, Laurel, “The Linguistics of Sentiment Analysis” Portland State University, PDX Scholar. 2013. http://pdxscholar.library.pdx.edu/honorstheses/20
- 2012: Hart, Laurel, Hassan Alam and Aman Kumar, “Revisiting Arabic Semantic Role Labeling using SVM Kernel Methods” Proceedings of COLING 2012. December, 2012: 207—14. http://aclweb.org/anthology//C/C12/C12-3026.pdf
