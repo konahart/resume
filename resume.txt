@@ -44,7 +44,7 @@ PullString Author, a software platform for authoring human-fidelity AI conversat
   - Established large-scale testing to support data-driven decision-making
   - Collaborated with technical and non-technical peers on product features
     - Expressive word/pattern matching syntax for use by non-technical users
-    - NPL and Machine Learning -based synonym and phrase suggestion
+    - NLP and Machine Learning -based synonym and phrase suggestion
 
 Education
 Deep Learning Specialization, DeepLearning.AI, Coursera 2018
