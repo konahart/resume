@@ -23,7 +23,7 @@ Senior Software Engineer, Primed Technologies, San Francisco, CA / remote, 2019-
 Long-term companion robot + app-based character for kids
   - Combined innovative robotics and Natural Language Processing (NLP) techniques
     - Led architecture design for state-of-the-art computer conversation at scale
-    - Design and implementated internal webapp for content authoring
+    - Designed and implemented internal webapp for content authoring
   - Created a fantastical digital companion in a sprite-based iOS app
   - Conducted rapid prototyping of 3D mobile games in Unity
 
