@@ -70,7 +70,7 @@ title: Laurel Kona Goodhart's resume
     </li>
     </ul>
 </li>
-<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>, ongoing
+<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>
     <ul>
     <li><strong>Deep Learning Specialization</strong>, <i>DeepLearning.AI</i>, 2018
         <ul>
@@ -177,7 +177,7 @@ title: Laurel Kona Goodhart's resume
     </li></ul>
 </li>
 
-<li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - CSE</i>, Seattle, WA.,  2014
+<li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - Computer Science & Engineering</i>, Seattle, WA.,  2014
     <ul>
     <li>Created a <a href="#relation-extraction">training data pipeline for multi-linguistic relation extraction system, MultiR</a></li>
     <li>Worked with large corpora
