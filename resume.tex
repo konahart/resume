@@ -1,7 +1,7 @@
 % Based on `template.tex' by Xavier Danaux (xdanaux@gmail.com) as part of the
 % moderncv LaTeX package.
 
-\documentclass[11pt,letterpaper]{moderncv}
+\documentclass[10pt,letterpaper]{moderncv}
 
 \moderncvstyle{classic} % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvicons{awesome}
@@ -16,7 +16,7 @@
     pdfauthor={Laurel Kona Goodhart},
     pdfsubject={Resume},
     pdftitle={Laurel Kona Goodhart's Resume},
-    pdfkeywords={resume, cv, natural language processing, machine learning, nlp, ml}
+    pdfkeywords={resume, cv, natural language processing, natural language understanding, machine learning, nlp, nlu, ml}
 }}
 
 % character encoding
@@ -28,10 +28,13 @@
 \renewcommand*{\namestyle}[1]{{\namefont\droidserif\textcolor{color1}{#1}}}
 \renewcommand*{\titlestyle}[1]{{\titlefont\droidserif\Large\textcolor{color2}{#1}}}
 \renewcommand*{\sectionstyle}[1]{{\sectionfont\fontsize{13}{12}\droidserif\textcolor{color1}{#1}}}
+%\renewcommand*{\quotestyle}[1]{{\vspace*{-8mm}\fontsize{10}{9}\textcolor{color3}{#1}}}
+\setlength{\hintscolumnwidth}{0.18\textwidth}
+\setlength{\separatorcolumnwidth}{0.03\textwidth}
 
 % adjust the page margins
 % scale bigger -> smaller margins
-\usepackage[margin=15mm, right=2cm, top=17mm]{geometry}
+\usepackage[top=10mm, left=2cm, right=2cm, bottom=10mm]{geometry}
 
 %----------------------------------------------------------------------------------
 %            personal data
@@ -43,6 +46,7 @@
 \homepage{konahart.com}
 \social[linkedin]{konahart}
 \social[github]{konahart}
+%\quote{I work at the intersection of language, technology, and storytelling to create the next generation of character-driven AI experiences.}
 
 %----------------------------------------------------------------------------------
 %            content
@@ -53,85 +57,93 @@
 \hspace{.25in}\begin{minipage}[b]{\textwidth}
 \makecvtitle
 \end{minipage}
-\vspace*{-13mm}
 
-\small\textit{Character-driven AI experiences, Natural Language Understanding (NLU), and Natural Language Processing (NLP)}
+\vspace*{-8mm}
+\textcolor{color3}{\droidserif{I work at the intersection of language, technology, and storytelling to create the next generation of\newline character-driven AI experiences.}}
+\vspace*{1mm}
+
+% Technical Skills
+\section{Technical Skills \& Tools}
+\cvitem{\textit{Specialties}}{Natural Language Processing (NLP), Natural Language Understanding (NLU), \newline conventional Machine Learning (ML), Deep Learning, Large Language Models (LLMs)}
+\cvitem{\textit{Skills}}{Data Management, Annotation, User Interface and User Experience Design (UI/UX), Research}
+\cvitem{\textit{Code}}{Python, C\#, JavaScript, TypeScript, React, C++, Java}
+\cvitem{\textit{Tools}}{Unity, Jupyter, Chakra UI, Flask, MongoDB, MySQL, Stanford CoreNLP, NLTK, spaCy, Rasa, Git}
 
 % Experience
 \section{Experience}
-\cventry{2021---2023 \textit{(current)}}{Principal Computational Linguist}{Walt Disney Engineering}{remote}{}{
-D3-O9, interactive droid character aboard the Star Wars Galactic Starcruiser (Walt Disney World)
-\begin{itemize}
-\item Owned Natural Language Understanding (NLU) pipeline
-\begin{itemize}
-    \item Trained, evaluated, and iterated models for conversational agent
-    \item Identified trends in user testing to better tailor character content
-    \item Delivered and maintained production-ready NLU systems
-\end{itemize}
-\item Worked closely with Conversation Experience Designers to guarantee a ``Disney magic'' experience
+\cventry{2021---current}{Natural Language Understanding Specialist}{Walt Disney Imagineering}{remote}{}{}
+\cvitem{\textit{Projects}}{\textit{D3-O9}, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World);
+                           \newline internal AI character creation tools}
+%\cvitem{\textit{Skills \& Tools}}{C\#, Python, JavaScript, TypeScript, React, UI/UX design, Unity, Flask, MongoDB}
+\cvitem{\textit{Responsibilities}}{
   \begin{itemize}
-  \item Used insight into content-creation process to translate between creative and technical teams
-  \item Helped design next generation of experience-authoring tools
+  \item Leading training, evaluation, and improvement of NLU systems for D3-O9 character
+  \item Collaborating with creative peers to guarantee that our products embody ``Disney magic''
+  \item Using expertise in AI character production to translate between creative and technical teams
+  \item Designing and building software tools for next generation of AI character experiences
   \end{itemize}
-\item Worked with in-house researchers to define conversational quality metrics
-\end{itemize}}
+}
 
-\cventry{2019---2021}{Senior Software Engineer}{Primed Technologies}{San Francisco, CA / remote}{}{
-Long-term companion robot + app-based character for kids
-\begin{itemize}
-\item Combined innovative robotics and Natural Language Processing (NLP) techniques
+\vspace*{-3mm}
+\cventry{2019---2021}{Senior Software Engineer}{Primed Technologies}{San Francisco, CA / remote}{}{}
+\cvitem{\textit{Product}}{Long-term companion robot + app-based character for kids}
+%\cvitem{\textit{Skills \& Tools}}{Python, C\#, Unity, MySQL, RiveScript, PHP}
+\cvitem{\textit{Responsibilities}}{
   \begin{itemize}
-  \item Led architecture design for state-of-the-art computer conversation at scale
-  \item Designed and implemented internal webapp for content authoring
+  \item Led software architecture design for state-of-the-art computer conversation at scale
+  \item Created a fantastical digital companion in a sprite-based iOS app
+  \item Conducted rapid prototyping of 3D mobile games
   \end{itemize}
-\item Created a fantastical digital companion in a sprite-based iOS app
-\item Conducted rapid prototyping of 3D mobile games in Unity
-\end{itemize}}
+  \vspace*{\baselineskip}
+}
 
-\cventry{2018}{Natural Language Processing Specialist}{Woebot Labs, Inc.}{San Francisco, CA}{}{
-Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques
-\begin{itemize}
-\item Created a novel application of Natural Language Understanding (NLU) to therapeutic exercises
+\vspace*{-3mm}
+\cventry{2018}{Natural Language Processing Specialist}{Woebot Labs, Inc.}{San Francisco, CA}{}{}
+\cvitem{\textit{Product}}{\textit{Woebot}, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques}
+%\cvitem{\textit{Skills \& Tools}}{Python, Jupyter, Tensorflow, Deep Learning}
+\cvitem{\textit{Responsibilities}}{
   \begin{itemize}
-  \item Trained, evaluated, and deployed language models for activity and mood classification
-  \item Established a data collection and annotation strategy
+  \item Applied expertise in chatbot conversational design to improve existing product
+  \item Created a novel application of NLU to therapeutic exercises
+    \begin{itemize}
+    \item Trained, evaluated, and deployed language models for activity and mood classification
+    \item Established a data collection and annotation strategy
+    \end{itemize}
+  \item Conducted analysis of effects of NLU performance on retention during app onboarding
   \end{itemize}
-\item Applied expertise in chatbot conversational design to existing product
-  \begin{itemize}
-  \item Identified common pitfalls, suggested solutions, and implemented them
-  \item Conducted analysis of effects of NLU issues on retention during app onboarding
-  \end{itemize}
-\item Assisted in design of new chatbot authoring environment for use by non-technical users
-\end{itemize}}
+}
 
-\cventry{2015---2017}{Artificial Intelligence Engineer}{PullString, Inc. (formerly ToyTalk, Inc.)}{San Francisco, CA}{}{
-\textit{PullString Author}, a software platform for authoring human-fidelity AI conversation; various conversational apps and toys, including \textit{Hello Barbie}, \textit{Doctor Strange}, \textit{Thomas \& Friends Talk to You}
+\vspace*{-3mm}
+\cventry{2015---2017}{Artificial Intelligence Engineer}{PullString, Inc. (formerly ToyTalk, Inc.)}{San Francisco, CA}{}{}
+  \cvitem{\textit{Products}}{\textit{PullString Author}, a no-code software platform for authoring human-fidelity AI conversation;
+  \newline \textit{Hello Barbie}, a first-of-its-kind two-way conversational Barbie doll;
+  \newline character chat apps including: \textit{Hearthstone}, \textit{Call of Duty}, and \textit{Humani: Jessie's Story} (Facebook Messenger); \textit{Doctor Strange} (Skype); and \textit{Thomas \& Friends Talk to You} (iOS and Android)}
+%\cvitem{\textit{Skills \& Tools}}{C++, Python, Qt, Stanford CoreNLP, NLTK, spaCy, Xcode, Mercurial}
+\cvitem{\textit{Responsibilities}}{
 \begin{itemize}
-  \item Designed, implemented, and improved Natural Language Processing (NLP) features
+\item Designed and implemented NLP features for use by non-technical users
   \begin{itemize}
-  \item Including negation detection, number conversion, user and author input normalization
+  \item Negation detection, number conversion, user and author input normalization
+  \item Expressive word/pattern matching syntax for use by non-technical users
+  \item NLP and ML -powered synonym and phrase suggestion
   \end{itemize}
 \item Established large-scale testing to support data-driven decision-making
-\item Collaborated with technical and non-technical peers on product features
-  \begin{itemize}
-  \item Expressive word/pattern matching syntax for use by non-technical users
-  \item NLP and Machine Learning -based synonym and phrase suggestion
-  \end{itemize}
 \end{itemize}}
+\vspace*{-3mm}
 
 % Education
 \section{Education}
-\cventry{2018}{Deep Learning Specialization}{deeplearning.ai}{Coursera}{}{
+%\cventry{2018}{Deep Learning Specialization}{deeplearning.ai}{Coursera}{}{
+%\begin{itemize}
+%  \item 5 courses: Neural Networks and Deep Learning;
+%                  Improving Deep Neural Networks; %: Hyperparameter tuning, Regularization and Optimization;
+%                  Structuring Machine Learning Projects;
+%                  Convolutional Neural Networks;
+%                  Sequence Models
+%\end{itemize}}
+\cventry{2013---2014}{Professional Master of Science in Computational Linguistics}{University of Washington}{\hfill \newline Seattle, WA}{}{
 \begin{itemize}
-  \item 5 courses: Neural Networks and Deep Learning;
-                  Improving Deep Neural Networks; %: Hyperparameter tuning, Regularization and Optimization;
-                  Structuring Machine Learning Projects;
-                  Convolutional Neural Networks;
-                  Sequence Models
-\end{itemize}}
-\cventry{2013---2014}{Professional Master of Science in Computational Linguistics}{\hfill \newline University of Washington}{Seattle, WA}{}{
-\begin{itemize}
-  \item Focused on Natural Language Processing (NLP), Machine Learning (ML), and language modeling
+  \item Focused on Natural Language Processing, Machine Learning, and language modeling
   \begin{itemize}
     \item Specific topics included Machine Translation, Information Retrieval, and Question Answering
   \end{itemize}
