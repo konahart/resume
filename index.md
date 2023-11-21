@@ -21,12 +21,12 @@ title: Laurel Kona Goodhart's resume
 <h3>Education</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
+<li class="alwaysShow"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
     <ul>
-    <li class="highlight">Focused on Natural Language Processing, Machine Learning, and language modeling
+    <li>Focused on Natural Language Processing, Machine Learning, and language modeling
         <ul>
-	<li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
-	<li>Extensive and challenging course load
+        <li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
+        <li>Extensive and challenging course load
             <ul>
             <li>CSE 510 &raquo; <a href="#HumanComputerInteraction">Advanced Topics in Human Computer Interaction</a> with Alan Borning</li>
             <li>LING 533 &raquo; Methods of Sociolinguistics (Sociolinguistics II) with Alicia Wassink</li>
@@ -39,12 +39,11 @@ title: Laurel Kona Goodhart's resume
             <li>LING 575 &raquo; <a href="#AmazonSentiment">Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis)</a> with Gina Levow</li>
             </ul>
         </li>
-	</ul>
+        </ul>
     </li>
     </ul>
 </li>
-
-<li class="alwaysShow highlight"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
+<li class="alwaysShow"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
     <ul>
     <li>Minor in Computer Science</li>
     <li>Honors College, undergraduate thesis: <a href="#lingOfSent">"The Linguistics of Sentiment Analysis"</a></li>
