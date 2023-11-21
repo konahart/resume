@@ -5,8 +5,7 @@ Laurel Kona Goodhart - Software Engineer, Natural Language Processing Specialist
  Github: https://github.com/konahart
  Twitter: @konahart
 
-I work at the intersection of language, technology, and storytelling to create the next generation of
-character-driven AI experiences.
+I work at the intersection of language, technology, and storytelling to create the next generation of character-driven AI experiences.
 
 Technical Skills & Tools
 Specialties: Natural Language Processing (NLP), Natural Language Understanding (NLU), conventional Machine Learning (ML), Deep Learning, Large Language Models (LLMs)
