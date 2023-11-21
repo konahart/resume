@@ -18,6 +18,10 @@ title: Laurel Kona Goodhart's resume
 <li>LinkedIn &raquo; <a href="http://www.linkedin.com/in/konahart">konahart</a></li>
 </ul>
 
+<h3>About</h3>
+I work at the intersection of language, technology, and storytelling to create the next generation of
+<b>character-driven AI experiences</b>.
+
 <h3>Education</h3>
 
 <ul class="expList">
