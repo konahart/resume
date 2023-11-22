@@ -22,8 +22,15 @@ title: Laurel Kona Goodhart's resume
 I work at the intersection of language, technology, and storytelling to create the next generation of
 <b>character-driven AI experiences</b>.
 
-<h3>Education</h3>
+<h3>Technical Skills & Tools</h3>
+<ul class="expList">
+    <li><b>Specialties</b>: Natural Language Processing (NLP), Natural Language Understanding (NLU),conventional Machine Learning (ML), Deep Learning, Large Language Models (LLMs)</li>
+    <li><b>Skills</b>: Data Management, Annotation, User Interface and User Experience Design (UI/UX), Research</li>
+    <li><b>Code</b>: Python, C#, JavaScript, TypeScript, React, C++, Java</li>
+    <li><b>Tools</b>: Unity, Jupyter, Chakra UI, Flask, MongoDB, MySQL, Stanford CoreNLP, NLTK, spaCy, Rasa, Git</li>
+</ul>
 
+<h3>Education</h3>
 <ul class="expList">
 <li class="alwaysShow"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
     <ul>
