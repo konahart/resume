@@ -250,7 +250,7 @@ I work at the intersection of language, technology, and storytelling to create t
 <h3>Technical skills</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Programming Languages</strong>
+<li class="alwaysShow"><strong>Programming Languages</strong>
     <ul>
     <li>Python
         <ul>
@@ -263,7 +263,7 @@ I work at the intersection of language, technology, and storytelling to create t
         <li>Context Free Grammars that incorporated features and semantic representations</li>
         </ul>
     </li>
-    <li>Javascript
+    <li>JavaScript / TypeScript
         <ul>
         <li>Node</li>
         <li>React</li>
@@ -288,7 +288,7 @@ I work at the intersection of language, technology, and storytelling to create t
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Tools</strong>
+<li class="alwaysShow"><strong>Tools</strong>
     <ul>
     <li>Git and GitHub
         <ul>
@@ -340,9 +340,9 @@ I work at the intersection of language, technology, and storytelling to create t
 <h3>Selected projects</h3>
 
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Machine Learning</strong>
+<li class="alwaysShow"><strong>Machine Learning</strong>
     <ul>
-    <li class="highlight">Deep learning
+    <li>Deep learning
         <ul>
         <li>RNN</li>
         <li>CNN</li>
@@ -360,7 +360,7 @@ I work at the intersection of language, technology, and storytelling to create t
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Natural Language Processing</strong>
+<li class="alwaysShow"><strong>Natural Language Processing</strong>
     <ul>
     <li>HMM-based Part-of-Speech tagger</li>
     <li>Word Sense Disambiguation system</li>
