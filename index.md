@@ -30,90 +30,6 @@ I work at the intersection of language, technology, and storytelling to create t
     <li><b>Tools</b>: Unity, Jupyter, Chakra UI, Flask, MongoDB, MySQL, Stanford CoreNLP, NLTK, spaCy, Rasa, Git</li>
 </ul>
 
-<h3>Education</h3>
-<ul class="expList">
-<li class="alwaysShow"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
-    <ul>
-    <li>Focused on Natural Language Processing, Machine Learning, and language modeling
-        <ul>
-        <li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
-        <li>Extensive and challenging course load
-            <ul>
-            <li>CSE 510 &raquo; <a href="#HumanComputerInteraction">Advanced Topics in Human Computer Interaction</a> with Alan Borning</li>
-            <li>LING 533 &raquo; Methods of Sociolinguistics (Sociolinguistics II) with Alicia Wassink</li>
-            <li>LING 542 &raquo; Semantics I with Yin Li</li>
-            <li>LING 566 &raquo; Introduction to Syntax for Computational Linguists with Emily Bender</li>
-            <li>LING 570 &raquo; Shallow Processing Techniques for Natural Language Processing with Fei Xia</li>
-            <li>LING 571 &raquo; Deep Processing for Natural Language Processing with Gina Levow</li>
-            <li>LING 572 &raquo; Advanced Statistical Methods in Natural Language Processing with Fei Xia</li>
-            <li>LING 573 &raquo; <a href="#QuestionAnswering">Natural Language Processing Systems and Applications: Question Answering</a> with Gina Levow</li>
-            <li>LING 575 &raquo; <a href="#AmazonSentiment">Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis)</a> with Gina Levow</li>
-            </ul>
-        </li>
-        </ul>
-    </li>
-    </ul>
-</li>
-<li class="alwaysShow"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
-    <ul>
-    <li>Minor in Computer Science</li>
-    <li>Honors College, undergraduate thesis: <a href="#lingOfSent">"The Linguistics of Sentiment Analysis"</a></li>
-    <li>Solid foundations in both Linguistics and Computer Science
-        <ul>
-        <li>CS 201 &raquo; Computer Systems Programming with Jingke Li</li>
-        <li>CS 202 &raquo; Programming Systems with Karla Fant</li>
-        <li>CS 250 &raquo; Discrete Structures I with Sergio Antoy</li>
-        <li>CS 251 &raquo; Discrete Structures II with Martin Cenek</li>
-        <li>CS 311 &raquo; Computational Structures with James Hook</li>
-        <li>CS 406 &raquo; Independent Study: Document Classification on Retracted Papers with Bart Massey</li>
-        <li>CS 410 &raquo; Counting, Probability, and Computing with Tom Shrimpton</li>
-        <li>LING 390 &raquo; Introduction to Linguistics with Jeff Conn</li>
-        <li>LING 407 &raquo; Linguistic Methodology (Fieldwork and Ethics) with Tucker Childs</li>
-        <li>LING 411 &raquo; Syntax with Lynn Santelmann</li>
-        <li>LING 415 &raquo; Phonetics with Jeff Conn</li>
-        <li>LING 420 &raquo; Historical &amp; Comparative Linguistics with Tucker Childs</li>
-        <li>LING 432 &raquo; Sociolinguistics with Tucker Childs</li>
-        <li>LING 435 &raquo; Applied Linguistics with John Hellerman</li>
-        <li>LING 490 &raquo; History of English with John Hellerman</li>
-        <li>LING 492 &raquo; Structure of the English Language with Susan Conrad</li>
-        <li>PHL 322 &raquo; Minds and Machines with Joshua Fost</li>
-        </ul>
-    </li>
-    </ul>
-</li>
-<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>
-    <ul>
-    <li><strong>Deep Learning Specialization</strong>, <i>DeepLearning.AI</i>, 2018
-        <ul>
-        <li>Taught by Andrew Ng, Kian Katanforoosh, and Younes Bensouda Mourri</li>
-        <li><a href="CourseraDeepLearningCertificate.pdf">Specialization Certificate</a></li>
-        <li>5 courses:
-            <ul>
-            <li>Neural Networks and Deep Learning</li>
-            <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</li>
-            <li>Structuring Machine Learning Projects</li>
-            <li>Convolutional Neural Networks</li>
-            <li>Sequence Models</li>
-            </ul>
-        </li>
-        </ul>
-    </li>
-    <li><strong>The Data Scientist's Toolbox</strong>, <i>Johns Hopkins University</i>, 2014
-        <ul>
-        <li>Taught by Jeff Leek, Roger D. Peng, and Brian Caffo</li>
-        <li><a href="CourseraDataScientistsToolboxStatement.pdf">Statement of Accomplishment</a></li>
-        </ul>
-    </li>
-    <li><strong>Algorithms: Design &amp; Analysis, Part I</strong>, <i>Stanford University</i>, 2014
-        <ul>
-        <li>Taught by Tim Roughgarden</li>
-        <li><a href="CourseraAlgs1Statement.pdf">Statement of Accomplishment</a></li>
-        </ul>
-    </li>
-    </ul>
-</li>
-</ul>
-
 <h3>Experience</h3>
 <ul class="expList">
 <li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; current
@@ -241,6 +157,90 @@ I work at the intersection of language, technology, and storytelling to create t
         <li>creative writing workshops</li>
         <li>video game nights</li>
         <li>graphic novel discussion groups</li>
+        </ul>
+    </li>
+    </ul>
+</li>
+</ul>
+
+<h3>Education</h3>
+<ul class="expList">
+<li class="alwaysShow"><strong>Master of Science in Computational Linguistics</strong>, <i>University of Washington</i>, Seattle, WA.,  2013 &mdash; 2014
+    <ul>
+    <li>Focused on Natural Language Processing, Machine Learning, and language modeling
+        <ul>
+        <li>Specific topics include Machine Translation, Information Retrieval, and Question Answering</li>
+        <li>Extensive and challenging course load
+            <ul>
+            <li>CSE 510 &raquo; <a href="#HumanComputerInteraction">Advanced Topics in Human Computer Interaction</a> with Alan Borning</li>
+            <li>LING 533 &raquo; Methods of Sociolinguistics (Sociolinguistics II) with Alicia Wassink</li>
+            <li>LING 542 &raquo; Semantics I with Yin Li</li>
+            <li>LING 566 &raquo; Introduction to Syntax for Computational Linguists with Emily Bender</li>
+            <li>LING 570 &raquo; Shallow Processing Techniques for Natural Language Processing with Fei Xia</li>
+            <li>LING 571 &raquo; Deep Processing for Natural Language Processing with Gina Levow</li>
+            <li>LING 572 &raquo; Advanced Statistical Methods in Natural Language Processing with Fei Xia</li>
+            <li>LING 573 &raquo; <a href="#QuestionAnswering">Natural Language Processing Systems and Applications: Question Answering</a> with Gina Levow</li>
+            <li>LING 575 &raquo; <a href="#AmazonSentiment">Linguistic Expressions of Sentiment, Subjectivity, and Stance (Sentiment Analysis)</a> with Gina Levow</li>
+            </ul>
+        </li>
+        </ul>
+    </li>
+    </ul>
+</li>
+<li class="alwaysShow"><strong>Bachelor of Arts in Applied Linguistics</strong>, <i>Portland State University</i>, Portland, OR.,  2009 &mdash; 2013
+    <ul>
+    <li>Minor in Computer Science</li>
+    <li>Honors College, undergraduate thesis: <a href="#lingOfSent">"The Linguistics of Sentiment Analysis"</a></li>
+    <li>Solid foundations in both Linguistics and Computer Science
+        <ul>
+        <li>CS 201 &raquo; Computer Systems Programming with Jingke Li</li>
+        <li>CS 202 &raquo; Programming Systems with Karla Fant</li>
+        <li>CS 250 &raquo; Discrete Structures I with Sergio Antoy</li>
+        <li>CS 251 &raquo; Discrete Structures II with Martin Cenek</li>
+        <li>CS 311 &raquo; Computational Structures with James Hook</li>
+        <li>CS 406 &raquo; Independent Study: Document Classification on Retracted Papers with Bart Massey</li>
+        <li>CS 410 &raquo; Counting, Probability, and Computing with Tom Shrimpton</li>
+        <li>LING 390 &raquo; Introduction to Linguistics with Jeff Conn</li>
+        <li>LING 407 &raquo; Linguistic Methodology (Fieldwork and Ethics) with Tucker Childs</li>
+        <li>LING 411 &raquo; Syntax with Lynn Santelmann</li>
+        <li>LING 415 &raquo; Phonetics with Jeff Conn</li>
+        <li>LING 420 &raquo; Historical &amp; Comparative Linguistics with Tucker Childs</li>
+        <li>LING 432 &raquo; Sociolinguistics with Tucker Childs</li>
+        <li>LING 435 &raquo; Applied Linguistics with John Hellerman</li>
+        <li>LING 490 &raquo; History of English with John Hellerman</li>
+        <li>LING 492 &raquo; Structure of the English Language with Susan Conrad</li>
+        <li>PHL 322 &raquo; Minds and Machines with Joshua Fost</li>
+        </ul>
+    </li>
+    </ul>
+</li>
+<li class="alwaysShow highlight"><strong>Coursera</strong>, <i>various institutions</i>
+    <ul>
+    <li><strong>Deep Learning Specialization</strong>, <i>DeepLearning.AI</i>, 2018
+        <ul>
+        <li>Taught by Andrew Ng, Kian Katanforoosh, and Younes Bensouda Mourri</li>
+        <li><a href="CourseraDeepLearningCertificate.pdf">Specialization Certificate</a></li>
+        <li>5 courses:
+            <ul>
+            <li>Neural Networks and Deep Learning</li>
+            <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</li>
+            <li>Structuring Machine Learning Projects</li>
+            <li>Convolutional Neural Networks</li>
+            <li>Sequence Models</li>
+            </ul>
+        </li>
+        </ul>
+    </li>
+    <li><strong>The Data Scientist's Toolbox</strong>, <i>Johns Hopkins University</i>, 2014
+        <ul>
+        <li>Taught by Jeff Leek, Roger D. Peng, and Brian Caffo</li>
+        <li><a href="CourseraDataScientistsToolboxStatement.pdf">Statement of Accomplishment</a></li>
+        </ul>
+    </li>
+    <li><strong>Algorithms: Design &amp; Analysis, Part I</strong>, <i>Stanford University</i>, 2014
+        <ul>
+        <li>Taught by Tim Roughgarden</li>
+        <li><a href="CourseraAlgs1Statement.pdf">Statement of Accomplishment</a></li>
         </ul>
     </li>
     </ul>
