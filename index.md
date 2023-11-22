@@ -116,10 +116,11 @@ I work at the intersection of language, technology, and storytelling to create t
 
 <h3>Experience</h3>
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; current<br />
-    <i>D3-O9, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World);<br />
-    internal AI character creation tools</i>
+<li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; current
     <ul>
+    <li><b>Projects</b>:
+    <i>D3-O9</i>, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World); internal AI character creation tools
+    </li>
     <li class="highlight">Leading training, evaluation, and improvement of NLU systems for D3-O9 character during development and in production
     </li>
     <li class="highlight">Collaborating with creative peers to guarantee that our products embody “Disney magic”</li>
@@ -129,20 +130,20 @@ I work at the intersection of language, technology, and storytelling to create t
 
 </li>
 
-<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Technologies</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021<br />
-    <i>Long-term companion robot + app-based character for kids</i>
+<li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Technologies</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021
     <ul>
+    <li><b>Product</b>: Long-term companion robot + app-based character for kids</li>
     <li class="highlight">Led software architecture design for state-of-the-art computer conversation at scale</li>
     <li>Created a fantastical digital companion in a sprite-based iOS app</li>
     <li>Conducted rapid prototyping of 3D mobile games</li>
     </ul>
 </li>
 
-<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018<br />
-    <i>Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques</i>
+<li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018
     <ul>
+    <li><b>Product</b>: Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques</li>
     <li class="highlight">Applied expertise in chatbot conversational design to improve existing product</li>
-    <li>Created a novel application of NLU to therapeutic exercises
+    <li class="highlight">Created a novel application of NLU to therapeutic exercises
         <ul>
         <li>Trained, evaluated, and deployed language models for activity and mood classification</li>
         <li>Established a data collection and annotation strategy</li>
@@ -152,11 +153,15 @@ I work at the intersection of language, technology, and storytelling to create t
     </ul>
 </li>
 
-<li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017<br />
-    <i>PullString Author, a no-code software platform for authoring human-fidelity AI conversation;<br />
-    Hello Barbie, a first-of-its-kind two-way conversational Barbie doll;<br />
-    character chat apps including: Hearthstone, Call of Duty, and Humani: Jessie’s Story (Facebook Messenger); Doctor Strange (Skype); and Thomas & Friends Talk to You (iOS and Android)</i>
+<li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017
     <ul>
+    <li class="alwaysShow highlight"><b>Products</b>:
+        <ul>
+        <li><i>PullString Author</i>, a no-code software platform for authoring human-fidelity AI conversation;</li>
+        <li><i>Hello Barbie</i>, a first-of-its-kind two-way conversational Barbie doll;</li>
+        <li>character chat apps including: <i>Hearthstone</i>, <i>Call of Duty</i>, and <i>Humani: Jessie’s Story</i> (Facebook Messenger); <i>Doctor Strange</i> (Skype); and <i>Thomas & Friends Talk to You</i> (iOS and Android)</li>
+        </ul>
+    </li>
     <li class="alwaysShow highlight">Designed and implemented NLP features for use by non-technical users
         <ul>
         <li>Negation detection, number conversion, user and author input normalization</li>
