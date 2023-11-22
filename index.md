@@ -377,7 +377,7 @@ I work at the intersection of language, technology, and storytelling to create t
         <li>Used RNN to generate tea names and tasting notes (Tensorflow-char-rnn, Python)</li>
         <li>Classified color of generated tea names (Scikit-learn, Python)</li>
         <li>Hand-crafted a grammar to describe the generated tea (Tracery and corpora, Python)</li>
-        <li>Delivered a talk about it at Supporting Women in Information Technology & Computing in Hawaii - University of Hawaiʻi at Mānoa (SWITCH - UHM) in February 2020</li>
+        <li><a href="https://konahart.com/generativiTea/">Delivered a talk about it</a> at Supporting Women in Information Technology & Computing in Hawaii - University of Hawaiʻi at Mānoa (SWITCH - UHM) in February 2020</li>
         </ul>
     </li>
     <li><a href="/promptbot">Promptbot</a>: an IRC bot for writers
