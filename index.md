@@ -115,77 +115,57 @@ I work at the intersection of language, technology, and storytelling to create t
 </ul>
 
 <h3>Experience</h3>
-
 <ul class="expList">
+<li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; current<br />
+    <i>D3-O9, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World);<br />
+    internal AI character creation tools</i>
+    <ul>
+    <li class="highlight">Leading training, evaluation, and improvement of NLU systems for D3-O9 character during development and in production
+    </li>
+    <li class="highlight">Collaborating with creative peers to guarantee that our products embody “Disney magic”</li>
+    <li>Using expertise in AI character production to translate between creative and technical teams</li>
+    <li>Designing and building software tools for next generation of AI character experiences</li>
+    </ul>
 
-<li class="alwaysShow highlight"><strong>Principal Computational Linguist</strong>, <i>Walt Disney Engineering</i>, remote from Portland, OR., 2021 &mdash; 2023 <i>(current)</i>
-    <ul><li class="alwaysShow highlight">D3-O9, interactive droid character aboard the Star Wars Galactic Starcruiser (Walt Disney World)
-        <ul>
-        <li class="highlight">Owned Natural Language Understanding (NLU) pipeline
-            <ul>
-            <li class="highlight">Trained, evaluated, and iterated models for conversational agent</li>
-            <li class="highlight">Identified trends in user testing to better tailor character content</li>
-            <li class="highlight">Delivered and maintained production-ready NLU systems</li>
-            </ul>
-        </li>
-        <li class="highlight">Worked closely with Conversation Experience Designers to guarantee a “Disney magic” experience</li>
-            <ul>
-            <li class="highlight">Used insight into content-creation process to translate between creative and technical teams</li>
-            <li class="highlight">Helped design next generation of experience-authoring tools</li>
-            </ul>
-        <li>Worked with in-house researchers to define conversational quality metrics</li>
-        </ul>
-    </li></ul>
 </li>
 
 <li class="alwaysShow highlight"><strong>Senior Software Engineer</strong>, <i>Primed Technologies</i>, San Francisco, CA. / remote from Portland, OR., 2019 &mdash; 2021<br />
-    <ul><li class="alwaysShow highlight">Long-term companion robot + app-based character for kids
-        <ul>
-        <li class="highlight">Combined innovative robotics and Natural Language Processing (NLP) techniques
-            <ul>
-            <li class="highlight">Led architecture design for state-of-the-art computer conversation at scale</li>
-            <li class="highlight">Designed and implemented internal webapp for content authoring</li>
-            </ul>
-        </li>
-        <li>Created a fantastical digital companion in a sprite-based iOS app</li>
-        <li>Conducted rapid prototyping of 3D mobile games in Unity</li>
-        </ul>
-    </li></ul>
+    <i>Long-term companion robot + app-based character for kids</i>
+    <ul>
+    <li class="highlight">Led software architecture design for state-of-the-art computer conversation at scale</li>
+    <li>Created a fantastical digital companion in a sprite-based iOS app</li>
+    <li>Conducted rapid prototyping of 3D mobile games</li>
+    </ul>
 </li>
 
 <li class="alwaysShow highlight"><strong>Natural Language Processing Specialist</strong>, <i>Woebot Labs, Inc.</i>, San Francisco, CA., 2018<br />
-    <ul><li class="alwaysShow highlight">Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques
-        <ul>
-        <li class="highlight">Created a novel application of Natural Language Understanding (NLU) to therapeutic exercises
+    <i>Woebot, a mental health chatbot that teaches users Cognitive Behavioral Therapy techniques</i>
+    <ul>
+    <li class="highlight">Applied expertise in chatbot conversational design to improve existing product</li>
+    <li>Created a novel application of NLU to therapeutic exercises
         <ul>
         <li>Trained, evaluated, and deployed language models for activity and mood classification</li>
         <li>Established a data collection and annotation strategy</li>
         </ul>
-        </li>
-        <li class="highlight">Applied expertise in chatbot conversational design to existing product
-        <ul>
-        <li>Identified common pitfalls, suggested solutions, and implemented them</li>
-        <li>onducted analysis of effects of NLU issues on retention during app onboarding</li>
-        </ul></li>
-        <li>Assisted in design of new chatbot authoring environment for use by non-technical users</li>
-        </ul>
-    </li></ul>
+    </li>
+    <li>Conducted analysis of effects of NLU performance on retention during app onboarding</li>
+    </ul>
 </li>
 
 <li class="alwaysShow highlight" name="PullString"><strong>Artificial Intelligence Engineer</strong>, <i>PullString, Inc.</i> (formerly <i>ToyTalk, Inc.</i>), San Francisco, CA., 2015 &mdash; 2017<br />
-    <ul><li class="alwaysShow highlight"><i>PullString Author</i>, a software platform for authoring human-fidelity AI conversation; various conversational apps and toys, including <i>Hello Barbie</i>, <i>Doctor Strange</i>, <i>Thomas & Friends Talk to You</i>
+    <i>PullString Author, a no-code software platform for authoring human-fidelity AI conversation;<br />
+    Hello Barbie, a first-of-its-kind two-way conversational Barbie doll;<br />
+    character chat apps including: Hearthstone, Call of Duty, and Humani: Jessie’s Story (Facebook Messenger); Doctor Strange (Skype); and Thomas & Friends Talk to You (iOS and Android)</i>
+    <ul>
+    <li class="alwaysShow highlight">Designed and implemented NLP features for use by non-technical users
         <ul>
-        <li>Designed, implemented, and improved Natural Language Processing (NLP) features
-        <ul><li>Including negation detection, number conversion, user and author input normalization</li></ul></li>
-        <li>Established large-scale testing to support data-driven decision-making</li>
-        <li>Collaborated with technical and non-technical peers on product features
-        <ul>
+        <li>Negation detection, number conversion, user and author input normalization</li>
         <li>Expressive word/pattern matching syntax for use by non-technical users</li>
-        <li>NLP and Machine Learning -based synonym and phrase suggestion</li>
+        <li>NLP and ML -powered synonym and phrase suggestion</li>
         </ul>
-        </li>
-        </ul>
-    </li></ul>
+    </li>
+    <li>Established large-scale testing to support data-driven decision-making</li>
+    </ul>
 </li>
 
 <li class="alwaysShow"><strong>Research Assistant</strong>, <i>University of Washington - Computer Science & Engineering</i>, Seattle, WA.,  2014
