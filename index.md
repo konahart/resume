@@ -32,7 +32,7 @@ I work at the intersection of language, technology, and storytelling to create t
 
 <h3>Experience</h3>
 <ul class="expList">
-<li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; current
+<li class="alwaysShow highlight"><strong>Natural Language Understanding Specialist</strong>, <i>Walt Disney Imagineering</i>, remote from Portland, OR., 2021 &mdash; 2024
     <ul>
     <li><b>Projects</b>:
     <i>D3-O9</i>, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World); internal AI character creation tools
