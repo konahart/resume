@@ -14,7 +14,7 @@ Code: Python, C#, JavaScript, TypeScript, React, C++, Java
 Tools: Unity, Jupyter, Chakra UI, Flask, MongoDB, MySQL, Stanford CoreNLP, NLTK, spaCy, Rasa, Git
 
 Experience
-Natural Language Understanding Specialist, Walt Disney Imagineering, remote, 2021 -- current
+Natural Language Understanding Specialist, Walt Disney Imagineering, remote, 2021 -- 2024
 Projects:
 - D3-O9, interactive Star Wars droid character (Star Wars Galactic Starcruiser, Walt Disney World);
 - internal AI character creation tools
